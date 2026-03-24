@@ -1,9 +1,9 @@
 {
-  "collectedAt": "2026-03-24T15:20:03.585Z",
+  "collectedAt": "2026-03-24T15:38:03.290Z",
   "domains": {
     "frontend": {
       "label": "프론트엔드",
-      "updatedAt": "2026-03-24T15:19:36.408Z",
+      "updatedAt": "2026-03-24T15:37:23.582Z",
       "rankings": [
         {
           "rank": 1,
@@ -11,7 +11,7 @@
           "name": "React",
           "score": 90,
           "metrics": {
-            "githubStars": 244149,
+            "githubStars": 244150,
             "npmDownloads": 104796073,
             "soQuestions": 478953
           }
@@ -44,7 +44,7 @@
           "name": "Next.js",
           "score": 35,
           "metrics": {
-            "githubStars": 138449,
+            "githubStars": 138450,
             "npmDownloads": 42024465,
             "soQuestions": 43432
           }
@@ -77,7 +77,7 @@
           "name": "Vite",
           "score": 31,
           "metrics": {
-            "githubStars": 79312,
+            "githubStars": 79313,
             "npmDownloads": 76344516,
             "soQuestions": 7380
           }
@@ -99,7 +99,7 @@
           "name": "Svelte",
           "score": 15,
           "metrics": {
-            "githubStars": 86125,
+            "githubStars": 86126,
             "npmDownloads": 4030097,
             "soQuestions": 6365
           }
@@ -136,12 +136,23 @@
             "npmDownloads": 861492,
             "soQuestions": 684
           }
+        },
+        {
+          "rank": 13,
+          "rankChange": null,
+          "name": "bevy-atmosphere",
+          "score": 0,
+          "metrics": {
+            "githubStars": 292,
+            "npmDownloads": null,
+            "soQuestions": 215
+          }
         }
       ]
     },
     "backend": {
       "label": "백엔드",
-      "updatedAt": "2026-03-24T15:19:42.266Z",
+      "updatedAt": "2026-03-24T15:37:31.673Z",
       "rankings": [
         {
           "rank": 1,
@@ -204,7 +215,7 @@
           "name": "FastAPI",
           "score": 52,
           "metrics": {
-            "githubStars": 96520,
+            "githubStars": 96519,
             "npmDownloads": null,
             "soQuestions": 7653
           }
@@ -270,16 +281,38 @@
           "name": "Axum",
           "score": 14,
           "metrics": {
-            "githubStars": 25402,
+            "githubStars": 25403,
             "npmDownloads": null,
             "soQuestions": 213
+          }
+        },
+        {
+          "rank": 13,
+          "rankChange": null,
+          "name": "rx",
+          "score": 0,
+          "metrics": {
+            "githubStars": 331,
+            "npmDownloads": null,
+            "soQuestions": 3458
+          }
+        },
+        {
+          "rank": 14,
+          "rankChange": null,
+          "name": "markdown-proxy",
+          "score": 0,
+          "metrics": {
+            "githubStars": 284,
+            "npmDownloads": null,
+            "soQuestions": null
           }
         }
       ]
     },
     "devops": {
       "label": "데브옵스",
-      "updatedAt": "2026-03-24T15:19:46.497Z",
+      "updatedAt": "2026-03-24T15:37:38.543Z",
       "rankings": [
         {
           "rank": 1,
@@ -331,7 +364,7 @@
           "name": "Terraform",
           "score": 30,
           "metrics": {
-            "githubStars": 47999,
+            "githubStars": 48000,
             "npmDownloads": null,
             "soQuestions": 20398
           }
@@ -342,7 +375,7 @@
           "name": "ArgoCD",
           "score": 18,
           "metrics": {
-            "githubStars": 22395,
+            "githubStars": 22396,
             "npmDownloads": null,
             "soQuestions": null
           }
@@ -379,12 +412,56 @@
             "npmDownloads": null,
             "soQuestions": 11484
           }
+        },
+        {
+          "rank": 10,
+          "rankChange": null,
+          "name": "codex-console",
+          "score": 1,
+          "metrics": {
+            "githubStars": 790,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 11,
+          "rankChange": null,
+          "name": "ghostling",
+          "score": 1,
+          "metrics": {
+            "githubStars": 782,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 12,
+          "rankChange": null,
+          "name": "emulate",
+          "score": 1,
+          "metrics": {
+            "githubStars": 459,
+            "npmDownloads": null,
+            "soQuestions": 4497
+          }
+        },
+        {
+          "rank": 13,
+          "rankChange": null,
+          "name": "NixOS",
+          "score": 0,
+          "metrics": {
+            "githubStars": null,
+            "npmDownloads": null,
+            "soQuestions": 602
+          }
         }
       ]
     },
     "mobile": {
       "label": "모바일",
-      "updatedAt": "2026-03-24T15:19:49.375Z",
+      "updatedAt": "2026-03-24T15:37:41.771Z",
       "rankings": [
         {
           "rank": 1,
@@ -456,7 +533,7 @@
     },
     "ai": {
       "label": "AI / ML",
-      "updatedAt": "2026-03-24T15:19:53.134Z",
+      "updatedAt": "2026-03-24T15:37:50.492Z",
       "rankings": [
         {
           "rank": 1,
@@ -486,7 +563,7 @@
           "name": "Ollama",
           "score": 52,
           "metrics": {
-            "githubStars": 166023,
+            "githubStars": 166024,
             "npmDownloads": null,
             "soQuestions": 336
           }
@@ -530,7 +607,7 @@
           "name": "LlamaIndex",
           "score": 14,
           "metrics": {
-            "githubStars": 47942,
+            "githubStars": 47943,
             "npmDownloads": 125659,
             "soQuestions": null
           }
@@ -541,16 +618,115 @@
           "name": "LiteLLM",
           "score": 13,
           "metrics": {
-            "githubStars": 40181,
+            "githubStars": 40184,
             "npmDownloads": null,
             "soQuestions": 13
+          }
+        },
+        {
+          "rank": 9,
+          "rankChange": null,
+          "name": "weixin-agent-sdk",
+          "score": 0,
+          "metrics": {
+            "githubStars": 838,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 10,
+          "rankChange": null,
+          "name": "OpenClaw",
+          "score": 0,
+          "metrics": {
+            "githubStars": 659,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 11,
+          "rankChange": null,
+          "name": "HyperAgents",
+          "score": 0,
+          "metrics": {
+            "githubStars": 455,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 12,
+          "rankChange": null,
+          "name": "EurekaClaw",
+          "score": 0,
+          "metrics": {
+            "githubStars": 350,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 13,
+          "rankChange": null,
+          "name": "ai-scanner",
+          "score": 0,
+          "metrics": {
+            "githubStars": 315,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 14,
+          "rankChange": null,
+          "name": "Citadel",
+          "score": 0,
+          "metrics": {
+            "githubStars": 282,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 15,
+          "rankChange": null,
+          "name": "OpenCode",
+          "score": 0,
+          "metrics": {
+            "githubStars": null,
+            "npmDownloads": null,
+            "soQuestions": 1
+          }
+        },
+        {
+          "rank": 16,
+          "rankChange": null,
+          "name": "Mistral AI Forge",
+          "score": 0,
+          "metrics": {
+            "githubStars": null,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 17,
+          "rankChange": null,
+          "name": "Get Shit Done System",
+          "score": 0,
+          "metrics": {
+            "githubStars": null,
+            "npmDownloads": null,
+            "soQuestions": null
           }
         }
       ]
     },
     "database": {
       "label": "데이터베이스",
-      "updatedAt": "2026-03-24T15:19:57.457Z",
+      "updatedAt": "2026-03-24T15:37:55.841Z",
       "rankings": [
         {
           "rank": 1,
@@ -569,7 +745,7 @@
           "name": "Elasticsearch",
           "score": 51,
           "metrics": {
-            "githubStars": 76390,
+            "githubStars": 76391,
             "npmDownloads": null,
             "soQuestions": 58385
           }
@@ -580,7 +756,7 @@
           "name": "Redis",
           "score": 47,
           "metrics": {
-            "githubStars": 73529,
+            "githubStars": 73528,
             "npmDownloads": null,
             "soQuestions": 25615
           }
@@ -593,7 +769,7 @@
           "metrics": {
             "githubStars": 12209,
             "npmDownloads": null,
-            "soQuestions": 659498
+            "soQuestions": 659497
           }
         },
         {
@@ -650,12 +826,23 @@
             "npmDownloads": 755313,
             "soQuestions": 9
           }
+        },
+        {
+          "rank": 10,
+          "rankChange": null,
+          "name": "OpenGauss",
+          "score": 1,
+          "metrics": {
+            "githubStars": 1073,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
         }
       ]
     },
     "testing": {
       "label": "테스팅",
-      "updatedAt": "2026-03-24T15:20:00.208Z",
+      "updatedAt": "2026-03-24T15:37:59.283Z",
       "rankings": [
         {
           "rank": 1,
@@ -674,7 +861,7 @@
           "name": "Playwright",
           "score": 72,
           "metrics": {
-            "githubStars": 84887,
+            "githubStars": 84888,
             "npmDownloads": 39806814,
             "soQuestions": 3751
           }
@@ -727,7 +914,7 @@
     },
     "language": {
       "label": "프로그래밍 언어",
-      "updatedAt": "2026-03-24T15:20:03.585Z",
+      "updatedAt": "2026-03-24T15:38:03.290Z",
       "rankings": [
         {
           "rank": 1,
@@ -757,7 +944,7 @@
           "name": "Rust",
           "score": 52,
           "metrics": {
-            "githubStars": 111457,
+            "githubStars": 111459,
             "npmDownloads": null,
             "soQuestions": 44464
           }
