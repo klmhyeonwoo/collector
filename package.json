@@ -1,0 +1,13 @@
+{
+  "name": "tech-trends-collector",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "collect": "tsx scripts/collect.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}

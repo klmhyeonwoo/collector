@@ -1,0 +1,72 @@
+{
+  "collectedAt": "2026-03-25T00:00:00.000Z",
+  "domains": {
+    "frontend": {
+      "label": "프론트엔드",
+      "updatedAt": "2026-03-25T00:00:00.000Z",
+      "rankings": [
+        {
+          "rank": 1,
+          "rankChange": 0,
+          "name": "React",
+          "score": 100,
+          "metrics": {
+            "githubStars": 230000,
+            "npmDownloads": 25000000,
+            "soQuestions": 490000
+          }
+        },
+        {
+          "rank": 2,
+          "rankChange": 1,
+          "name": "TypeScript",
+          "score": 88,
+          "metrics": {
+            "githubStars": 101000,
+            "npmDownloads": 60000000,
+            "soQuestions": 120000
+          }
+        },
+        {
+          "rank": 3,
+          "rankChange": -1,
+          "name": "Next.js",
+          "score": 75,
+          "metrics": {
+            "githubStars": 129000,
+            "npmDownloads": 9000000,
+            "soQuestions": 85000
+          }
+        }
+      ]
+    },
+    "backend": {
+      "label": "백엔드",
+      "updatedAt": "2026-03-25T00:00:00.000Z",
+      "rankings": [
+        {
+          "rank": 1,
+          "rankChange": 0,
+          "name": "Node.js",
+          "score": 100,
+          "metrics": {
+            "githubStars": 108000,
+            "npmDownloads": null,
+            "soQuestions": 460000
+          }
+        },
+        {
+          "rank": 2,
+          "rankChange": null,
+          "name": "Hono",
+          "score": 62,
+          "metrics": {
+            "githubStars": 22000,
+            "npmDownloads": 800000,
+            "soQuestions": 1200
+          }
+        }
+      ]
+    }
+  }
+}
