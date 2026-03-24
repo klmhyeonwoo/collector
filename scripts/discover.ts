@@ -10,8 +10,6 @@
 import { writeFileSync, readFileSync, existsSync } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
-import { GoogleGenerativeAI } from "@google/generative-ai";
-
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const GITHUB_TOKEN   = process.env.GITHUB_TOKEN;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
@@ -22,8 +20,28 @@ if (!GEMINI_API_KEY) {
   process.exit(1);
 }
 
-const gemini = new GoogleGenerativeAI(GEMINI_API_KEY);
-const model  = gemini.getGenerativeModel({ model: "gemini-1.5-flash" });
+async function callGemini(prompt: string): Promise<string> {
+  const res = await fetch(
+    `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${GEMINI_API_KEY}`,
+    {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+      }),
+    }
+  );
+
+  if (!res.ok) {
+    const err = await res.text();
+    throw new Error(`Gemini API 오류 ${res.status}: ${err}`);
+  }
+
+  const data = await res.json() as {
+    candidates: Array<{ content: { parts: Array<{ text: string }> } }>;
+  };
+  return data.candidates[0].content.parts[0].text;
+}
 
 // ─────────────────────────────────────────
 // 타입
@@ -193,8 +211,7 @@ ${existingList}
 ]
 `;
 
-  const result = await model.generateContent(prompt);
-  const text = result.response.text().trim();
+  const text = (await callGemini(prompt)).trim();
 
   // JSON 블록 추출
   const jsonMatch = text.match(/\[[\s\S]*\]/);
