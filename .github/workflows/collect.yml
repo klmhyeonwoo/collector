@@ -22,21 +22,15 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # 최초: DEFAULT_DOMAINS로 domains.json 생성 + trends.json 수집
-      - name: Collect metrics
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npm run collect
-
-      # domains.json이 생긴 뒤 신규 기술 발견 및 추가
-      - name: Discover new techs (Gemini)
+      # 1. Gemini로 신규 기술 발견 → domains.json 업데이트
+      - name: Discover new techs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: npm run discover
 
-      # 신규 기술 포함해서 다시 수집
-      - name: Re-collect with new techs
+      # 2. 업데이트된 domains.json 기준으로 메트릭 수집
+      - name: Collect metrics
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm run collect
