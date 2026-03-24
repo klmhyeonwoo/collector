@@ -23,7 +23,7 @@ if (!GEMINI_API_KEY) {
 }
 
 const gemini = new GoogleGenerativeAI(GEMINI_API_KEY);
-const model  = gemini.getGenerativeModel({ model: "gemini-2.0-flash" });
+const model  = gemini.getGenerativeModel({ model: "gemini-1.5-flash" });
 
 // ─────────────────────────────────────────
 // 타입
