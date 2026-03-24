@@ -20,9 +20,44 @@ if (!GEMINI_API_KEY) {
   process.exit(1);
 }
 
-async function callGemini(prompt: string): Promise<string> {
+async function resolveModel(): Promise<string> {
   const res = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${GEMINI_API_KEY}`,
+    `https://generativelanguage.googleapis.com/v1beta/models?key=${GEMINI_API_KEY}`
+  );
+  if (!res.ok) throw new Error(`ListModels 실패: ${res.status}`);
+
+  const data = await res.json() as { models: Array<{ name: string; supportedGenerationMethods: string[] }> };
+  const candidates = ["gemini-2.5-pro", "gemini-2.5-flash", "gemini-1.5-flash", "gemini-1.5-flash-8b", "gemini-pro"];
+
+  for (const candidate of candidates) {
+    const found = data.models.find(
+      (m) =>
+        m.name.includes(candidate) &&
+        m.supportedGenerationMethods.includes("generateContent")
+    );
+    if (found) {
+      const modelId = found.name.replace("models/", "");
+      console.log(`  사용 모델: ${modelId}`);
+      return modelId;
+    }
+  }
+
+  // 후보 없으면 generateContent 지원하는 첫 번째 모델 사용
+  const fallback = data.models.find((m) =>
+    m.supportedGenerationMethods.includes("generateContent")
+  );
+  if (!fallback) throw new Error("사용 가능한 Gemini 모델이 없습니다.");
+
+  const modelId = fallback.name.replace("models/", "");
+  console.log(`  사용 모델 (fallback): ${modelId}`);
+  return modelId;
+}
+
+async function callGemini(prompt: string): Promise<string> {
+  const modelId = await resolveModel();
+
+  const res = await fetch(
+    `https://generativelanguage.googleapis.com/v1beta/models/${modelId}:generateContent?key=${GEMINI_API_KEY}`,
     {
       method: "POST",
       headers: { "Content-Type": "application/json" },
