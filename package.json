@@ -3,11 +3,16 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "collect": "tsx scripts/collect.ts"
+    "collect": "tsx scripts/collect.ts",
+    "discover": "tsx scripts/discover.ts",
+    "all": "tsx scripts/discover.ts && tsx scripts/collect.ts"
   },
   "devDependencies": {
     "tsx": "^4.0.0",
     "typescript": "^5.0.0",
     "@types/node": "^20.0.0"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
   }
 }

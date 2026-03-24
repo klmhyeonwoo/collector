@@ -14,8 +14,9 @@ import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
-const DATA_PATH = join(__dirname, "../data/trends.json");
+const GITHUB_TOKEN  = process.env.GITHUB_TOKEN;
+const DATA_PATH     = join(__dirname, "../data/trends.json");
+const DOMAINS_PATH  = join(__dirname, "../data/domains.json");
 
 // ─────────────────────────────────────────
 // 기술 목록
@@ -23,9 +24,9 @@ const DATA_PATH = join(__dirname, "../data/trends.json");
 
 interface Tech {
   name: string;
-  github?: string;  // "owner/repo"
-  npm?: string;     // npm package name
-  so?: string;      // Stack Overflow 태그 (없으면 name 소문자)
+  github?: string;
+  npm?: string;
+  so?: string;
 }
 
 interface DomainConfig {
@@ -33,7 +34,15 @@ interface DomainConfig {
   techs: Tech[];
 }
 
-const DOMAINS: Record<string, DomainConfig> = {
+// discover.ts가 생성한 domains.json을 우선 사용, 없으면 기본값 사용
+function loadDomains(): Record<string, DomainConfig> {
+  if (existsSync(DOMAINS_PATH)) {
+    return JSON.parse(readFileSync(DOMAINS_PATH, "utf-8")) as Record<string, DomainConfig>;
+  }
+  return DEFAULT_DOMAINS;
+}
+
+const DEFAULT_DOMAINS: Record<string, DomainConfig> = {
   frontend: {
     label: "프론트엔드",
     techs: [
@@ -316,6 +325,10 @@ async function main() {
   console.log("기술 트렌드 데이터 수집");
   console.log(`GitHub 인증: ${GITHUB_TOKEN ? "있음 (5000req/h)" : "없음 (60req/h)"}`);
   console.log("=".repeat(60));
+
+  const DOMAINS = loadDomains();
+  const totalTechs = Object.values(DOMAINS).reduce((s, d) => s + d.techs.length, 0);
+  console.log(`추적 기술: ${totalTechs}개 (${Object.keys(DOMAINS).length}개 도메인)\n`);
 
   const domains: Record<string, DomainResult> = {};
 
