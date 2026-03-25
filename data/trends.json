@@ -1,9 +1,9 @@
 {
-  "collectedAt": "2026-03-24T15:38:03.290Z",
+  "collectedAt": "2026-03-25T07:27:43.661Z",
   "domains": {
     "frontend": {
       "label": "프론트엔드",
-      "updatedAt": "2026-03-24T15:37:23.582Z",
+      "updatedAt": "2026-03-25T07:27:06.080Z",
       "rankings": [
         {
           "rank": 1,
@@ -11,7 +11,7 @@
           "name": "React",
           "score": 90,
           "metrics": {
-            "githubStars": 244150,
+            "githubStars": 244163,
             "npmDownloads": 104796073,
             "soQuestions": 478953
           }
@@ -22,9 +22,9 @@
           "name": "TypeScript",
           "score": 65,
           "metrics": {
-            "githubStars": 108267,
+            "githubStars": 108279,
             "npmDownloads": 150528097,
-            "soQuestions": 236057
+            "soQuestions": 236058
           }
         },
         {
@@ -33,7 +33,7 @@
           "name": "shadcn/ui",
           "score": 45,
           "metrics": {
-            "githubStars": 110603,
+            "githubStars": 110672,
             "npmDownloads": null,
             "soQuestions": null
           }
@@ -44,9 +44,9 @@
           "name": "Next.js",
           "score": 35,
           "metrics": {
-            "githubStars": 138450,
+            "githubStars": 138464,
             "npmDownloads": 42024465,
-            "soQuestions": 43432
+            "soQuestions": 43433
           }
         },
         {
@@ -57,7 +57,7 @@
           "metrics": {
             "githubStars": 100123,
             "npmDownloads": 5364887,
-            "soQuestions": 307890
+            "soQuestions": 307889
           }
         },
         {
@@ -66,7 +66,7 @@
           "name": "Tailwind CSS",
           "score": 32,
           "metrics": {
-            "githubStars": 94178,
+            "githubStars": 94183,
             "npmDownloads": 69052061,
             "soQuestions": 11145
           }
@@ -77,9 +77,9 @@
           "name": "Vite",
           "score": 31,
           "metrics": {
-            "githubStars": 79313,
+            "githubStars": 79330,
             "npmDownloads": 76344516,
-            "soQuestions": 7380
+            "soQuestions": 7381
           }
         },
         {
@@ -99,7 +99,7 @@
           "name": "Svelte",
           "score": 15,
           "metrics": {
-            "githubStars": 86126,
+            "githubStars": 86134,
             "npmDownloads": 4030097,
             "soQuestions": 6365
           }
@@ -110,7 +110,7 @@
           "name": "Astro",
           "score": 13,
           "metrics": {
-            "githubStars": 57843,
+            "githubStars": 57858,
             "npmDownloads": 1916051,
             "soQuestions": null
           }
@@ -121,7 +121,7 @@
           "name": "Nuxt",
           "score": 11,
           "metrics": {
-            "githubStars": 59917,
+            "githubStars": 59920,
             "npmDownloads": 1432935,
             "soQuestions": 13110
           }
@@ -132,18 +132,18 @@
           "name": "Remix",
           "score": 6,
           "metrics": {
-            "githubStars": 32514,
+            "githubStars": 32516,
             "npmDownloads": 861492,
             "soQuestions": 684
           }
         },
         {
           "rank": 13,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "bevy-atmosphere",
           "score": 0,
           "metrics": {
-            "githubStars": 292,
+            "githubStars": 293,
             "npmDownloads": null,
             "soQuestions": 215
           }
@@ -152,7 +152,7 @@
     },
     "backend": {
       "label": "백엔드",
-      "updatedAt": "2026-03-24T15:37:31.673Z",
+      "updatedAt": "2026-03-25T07:27:12.890Z",
       "rankings": [
         {
           "rank": 1,
@@ -160,7 +160,7 @@
           "name": "Node.js",
           "score": 100,
           "metrics": {
-            "githubStars": 116405,
+            "githubStars": 116416,
             "npmDownloads": null,
             "soQuestions": 472943
           }
@@ -171,9 +171,9 @@
           "name": "Django",
           "score": 72,
           "metrics": {
-            "githubStars": 87111,
+            "githubStars": 87114,
             "npmDownloads": null,
-            "soQuestions": 312385
+            "soQuestions": 312386
           }
         },
         {
@@ -182,7 +182,7 @@
           "name": "Express",
           "score": 64,
           "metrics": {
-            "githubStars": 68884,
+            "githubStars": 68885,
             "npmDownloads": 91687881,
             "soQuestions": 95449
           }
@@ -193,7 +193,7 @@
           "name": "Deno",
           "score": 56,
           "metrics": {
-            "githubStars": 106430,
+            "githubStars": 106436,
             "npmDownloads": null,
             "soQuestions": 1126
           }
@@ -204,9 +204,9 @@
           "name": "Spring Boot",
           "score": 55,
           "metrics": {
-            "githubStars": 80303,
+            "githubStars": 80306,
             "npmDownloads": null,
-            "soQuestions": 152121
+            "soQuestions": 152122
           }
         },
         {
@@ -215,7 +215,7 @@
           "name": "FastAPI",
           "score": 52,
           "metrics": {
-            "githubStars": 96519,
+            "githubStars": 96538,
             "npmDownloads": null,
             "soQuestions": 7653
           }
@@ -226,7 +226,7 @@
           "name": "Bun",
           "score": 47,
           "metrics": {
-            "githubStars": 88378,
+            "githubStars": 88394,
             "npmDownloads": null,
             "soQuestions": 294
           }
@@ -237,7 +237,7 @@
           "name": "Gin",
           "score": 47,
           "metrics": {
-            "githubStars": 88304,
+            "githubStars": 88305,
             "npmDownloads": null,
             "soQuestions": 955
           }
@@ -248,7 +248,7 @@
           "name": "NestJS",
           "score": 30,
           "metrics": {
-            "githubStars": 74983,
+            "githubStars": 74982,
             "npmDownloads": 8418221,
             "soQuestions": 12798
           }
@@ -259,7 +259,7 @@
           "name": "Hono",
           "score": 22,
           "metrics": {
-            "githubStars": 29522,
+            "githubStars": 29532,
             "npmDownloads": 32322806,
             "soQuestions": 80
           }
@@ -270,7 +270,7 @@
           "name": "Fastify",
           "score": 15,
           "metrics": {
-            "githubStars": 35898,
+            "githubStars": 35906,
             "npmDownloads": 5905349,
             "soQuestions": 821
           }
@@ -281,29 +281,40 @@
           "name": "Axum",
           "score": 14,
           "metrics": {
-            "githubStars": 25403,
+            "githubStars": 25412,
             "npmDownloads": null,
             "soQuestions": 213
           }
         },
         {
           "rank": 13,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "rx",
           "score": 0,
           "metrics": {
-            "githubStars": 331,
+            "githubStars": 333,
             "npmDownloads": null,
             "soQuestions": 3458
           }
         },
         {
           "rank": 14,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "markdown-proxy",
           "score": 0,
           "metrics": {
-            "githubStars": 284,
+            "githubStars": 287,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 15,
+          "rankChange": null,
+          "name": "OpeniLink-Hub",
+          "score": 0,
+          "metrics": {
+            "githubStars": 223,
             "npmDownloads": null,
             "soQuestions": null
           }
@@ -312,7 +323,7 @@
     },
     "devops": {
       "label": "데브옵스",
-      "updatedAt": "2026-03-24T15:37:38.543Z",
+      "updatedAt": "2026-03-25T07:27:18.655Z",
       "rankings": [
         {
           "rank": 1,
@@ -320,9 +331,9 @@
           "name": "Kubernetes",
           "score": 77,
           "metrics": {
-            "githubStars": 121321,
+            "githubStars": 121334,
             "npmDownloads": null,
-            "soQuestions": 58295
+            "soQuestions": 58294
           }
         },
         {
@@ -331,9 +342,9 @@
           "name": "Docker",
           "score": 58,
           "metrics": {
-            "githubStars": 37195,
+            "githubStars": 37200,
             "npmDownloads": null,
-            "soQuestions": 140535
+            "soQuestions": 140534
           }
         },
         {
@@ -342,7 +353,7 @@
           "name": "Grafana",
           "score": 38,
           "metrics": {
-            "githubStars": 72789,
+            "githubStars": 72796,
             "npmDownloads": null,
             "soQuestions": 5970
           }
@@ -353,7 +364,7 @@
           "name": "Prometheus",
           "score": 34,
           "metrics": {
-            "githubStars": 63281,
+            "githubStars": 63289,
             "npmDownloads": null,
             "soQuestions": 7075
           }
@@ -364,7 +375,7 @@
           "name": "Terraform",
           "score": 30,
           "metrics": {
-            "githubStars": 48000,
+            "githubStars": 48003,
             "npmDownloads": null,
             "soQuestions": 20398
           }
@@ -375,7 +386,7 @@
           "name": "ArgoCD",
           "score": 18,
           "metrics": {
-            "githubStars": 22396,
+            "githubStars": 22398,
             "npmDownloads": null,
             "soQuestions": null
           }
@@ -386,7 +397,7 @@
           "name": "Helm",
           "score": 17,
           "metrics": {
-            "githubStars": 29605,
+            "githubStars": 29610,
             "npmDownloads": null,
             "soQuestions": 6436
           }
@@ -397,7 +408,7 @@
           "name": "Pulumi",
           "score": 13,
           "metrics": {
-            "githubStars": 24917,
+            "githubStars": 24921,
             "npmDownloads": null,
             "soQuestions": 508
           }
@@ -410,45 +421,45 @@
           "metrics": {
             "githubStars": 5913,
             "npmDownloads": null,
-            "soQuestions": 11484
+            "soQuestions": 11485
           }
         },
         {
           "rank": 10,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "codex-console",
           "score": 1,
           "metrics": {
-            "githubStars": 790,
+            "githubStars": 836,
             "npmDownloads": null,
             "soQuestions": null
           }
         },
         {
           "rank": 11,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "ghostling",
           "score": 1,
           "metrics": {
-            "githubStars": 782,
+            "githubStars": 808,
             "npmDownloads": null,
             "soQuestions": null
           }
         },
         {
           "rank": 12,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "emulate",
           "score": 1,
           "metrics": {
-            "githubStars": 459,
+            "githubStars": 511,
             "npmDownloads": null,
             "soQuestions": 4497
           }
         },
         {
           "rank": 13,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "NixOS",
           "score": 0,
           "metrics": {
@@ -456,12 +467,23 @@
             "npmDownloads": null,
             "soQuestions": 602
           }
+        },
+        {
+          "rank": 14,
+          "rankChange": null,
+          "name": "Wine",
+          "score": 0,
+          "metrics": {
+            "githubStars": null,
+            "npmDownloads": null,
+            "soQuestions": 622
+          }
         }
       ]
     },
     "mobile": {
       "label": "모바일",
-      "updatedAt": "2026-03-24T15:37:41.771Z",
+      "updatedAt": "2026-03-25T07:27:21.468Z",
       "rankings": [
         {
           "rank": 1,
@@ -469,9 +491,9 @@
           "name": "Flutter",
           "score": 82,
           "metrics": {
-            "githubStars": 175681,
+            "githubStars": 175690,
             "npmDownloads": null,
-            "soQuestions": 181708
+            "soQuestions": 181711
           }
         },
         {
@@ -480,9 +502,9 @@
           "name": "React Native",
           "score": 74,
           "metrics": {
-            "githubStars": 125635,
+            "githubStars": 125636,
             "npmDownloads": 6532298,
-            "soQuestions": 139059
+            "soQuestions": 139058
           }
         },
         {
@@ -491,7 +513,7 @@
           "name": "Swift",
           "score": 63,
           "metrics": {
-            "githubStars": 69871,
+            "githubStars": 69875,
             "npmDownloads": null,
             "soQuestions": 337312
           }
@@ -502,9 +524,9 @@
           "name": "Expo",
           "score": 32,
           "metrics": {
-            "githubStars": 48183,
+            "githubStars": 48201,
             "npmDownloads": 3784842,
-            "soQuestions": 17506
+            "soQuestions": 17507
           }
         },
         {
@@ -513,9 +535,9 @@
           "name": "Kotlin",
           "score": 30,
           "metrics": {
-            "githubStars": 52496,
+            "githubStars": 52500,
             "npmDownloads": null,
-            "soQuestions": 98890
+            "soQuestions": 98893
           }
         },
         {
@@ -524,7 +546,7 @@
           "name": "Capacitor",
           "score": 14,
           "metrics": {
-            "githubStars": 15325,
+            "githubStars": 15331,
             "npmDownloads": 1799077,
             "soQuestions": 2359
           }
@@ -533,7 +555,7 @@
     },
     "ai": {
       "label": "AI / ML",
-      "updatedAt": "2026-03-24T15:37:50.492Z",
+      "updatedAt": "2026-03-25T07:27:33.200Z",
       "rankings": [
         {
           "rank": 1,
@@ -541,9 +563,9 @@
           "name": "TensorFlow",
           "score": 100,
           "metrics": {
-            "githubStars": 194319,
+            "githubStars": 194327,
             "npmDownloads": null,
-            "soQuestions": 82611
+            "soQuestions": 82612
           }
         },
         {
@@ -552,7 +574,7 @@
           "name": "Vercel AI SDK",
           "score": 53,
           "metrics": {
-            "githubStars": 22966,
+            "githubStars": 22977,
             "npmDownloads": 10010348,
             "soQuestions": null
           }
@@ -563,7 +585,7 @@
           "name": "Ollama",
           "score": 52,
           "metrics": {
-            "githubStars": 166024,
+            "githubStars": 166089,
             "npmDownloads": null,
             "soQuestions": 336
           }
@@ -574,7 +596,7 @@
           "name": "Transformers",
           "score": 51,
           "metrics": {
-            "githubStars": 158331,
+            "githubStars": 158360,
             "npmDownloads": null,
             "soQuestions": 3510
           }
@@ -585,7 +607,7 @@
           "name": "PyTorch",
           "score": 43,
           "metrics": {
-            "githubStars": 98530,
+            "githubStars": 98546,
             "npmDownloads": null,
             "soQuestions": 24374
           }
@@ -596,9 +618,9 @@
           "name": "LangChain",
           "score": 35,
           "metrics": {
-            "githubStars": 130887,
+            "githubStars": 130972,
             "npmDownloads": 2137497,
-            "soQuestions": 2186
+            "soQuestions": 2187
           }
         },
         {
@@ -607,7 +629,7 @@
           "name": "LlamaIndex",
           "score": 14,
           "metrics": {
-            "githubStars": 47943,
+            "githubStars": 47967,
             "npmDownloads": 125659,
             "soQuestions": null
           }
@@ -618,80 +640,80 @@
           "name": "LiteLLM",
           "score": 13,
           "metrics": {
-            "githubStars": 40184,
+            "githubStars": 40354,
             "npmDownloads": null,
             "soQuestions": 13
           }
         },
         {
           "rank": 9,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "weixin-agent-sdk",
           "score": 0,
           "metrics": {
-            "githubStars": 838,
+            "githubStars": 875,
             "npmDownloads": null,
             "soQuestions": null
           }
         },
         {
           "rank": 10,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "OpenClaw",
           "score": 0,
           "metrics": {
-            "githubStars": 659,
+            "githubStars": 707,
             "npmDownloads": null,
             "soQuestions": null
           }
         },
         {
           "rank": 11,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "HyperAgents",
           "score": 0,
           "metrics": {
-            "githubStars": 455,
+            "githubStars": 695,
             "npmDownloads": null,
             "soQuestions": null
           }
         },
         {
           "rank": 12,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "EurekaClaw",
           "score": 0,
           "metrics": {
-            "githubStars": 350,
+            "githubStars": 373,
             "npmDownloads": null,
             "soQuestions": null
           }
         },
         {
           "rank": 13,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "ai-scanner",
           "score": 0,
           "metrics": {
-            "githubStars": 315,
+            "githubStars": 323,
             "npmDownloads": null,
             "soQuestions": null
           }
         },
         {
           "rank": 14,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "Citadel",
           "score": 0,
           "metrics": {
-            "githubStars": 282,
+            "githubStars": 313,
             "npmDownloads": null,
             "soQuestions": null
           }
         },
         {
           "rank": 15,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "OpenCode",
           "score": 0,
           "metrics": {
@@ -702,7 +724,7 @@
         },
         {
           "rank": 16,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "Mistral AI Forge",
           "score": 0,
           "metrics": {
@@ -713,11 +735,132 @@
         },
         {
           "rank": 17,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "Get Shit Done System",
           "score": 0,
           "metrics": {
             "githubStars": null,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 18,
+          "rankChange": null,
+          "name": "WeClaw",
+          "score": 0,
+          "metrics": {
+            "githubStars": 657,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 19,
+          "rankChange": null,
+          "name": "AstronClaw",
+          "score": 0,
+          "metrics": {
+            "githubStars": 268,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 20,
+          "rankChange": null,
+          "name": "Loomy",
+          "score": 0,
+          "metrics": {
+            "githubStars": 268,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 21,
+          "rankChange": null,
+          "name": "MiroShark",
+          "score": 0,
+          "metrics": {
+            "githubStars": 256,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 22,
+          "rankChange": null,
+          "name": "DeerFlow",
+          "score": 0,
+          "metrics": {
+            "githubStars": 254,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 23,
+          "rankChange": null,
+          "name": "WeChat iLink Bot SDK",
+          "score": 0,
+          "metrics": {
+            "githubStars": 248,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 24,
+          "rankChange": null,
+          "name": "OpenSpace",
+          "score": 0,
+          "metrics": {
+            "githubStars": 248,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 25,
+          "rankChange": null,
+          "name": "Kalfa",
+          "score": 0,
+          "metrics": {
+            "githubStars": 233,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 26,
+          "rankChange": null,
+          "name": "Agent-Flow",
+          "score": 0,
+          "metrics": {
+            "githubStars": 228,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 27,
+          "rankChange": null,
+          "name": "ClawLink",
+          "score": 0,
+          "metrics": {
+            "githubStars": 226,
+            "npmDownloads": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 28,
+          "rankChange": null,
+          "name": "KittenTTS",
+          "score": 0,
+          "metrics": {
+            "githubStars": 218,
             "npmDownloads": null,
             "soQuestions": null
           }
@@ -726,7 +869,7 @@
     },
     "database": {
       "label": "데이터베이스",
-      "updatedAt": "2026-03-24T15:37:55.841Z",
+      "updatedAt": "2026-03-25T07:27:37.900Z",
       "rankings": [
         {
           "rank": 1,
@@ -734,7 +877,7 @@
           "name": "Supabase",
           "score": 75,
           "metrics": {
-            "githubStars": 99546,
+            "githubStars": 99584,
             "npmDownloads": 14597348,
             "soQuestions": 2359
           }
@@ -745,7 +888,7 @@
           "name": "Elasticsearch",
           "score": 51,
           "metrics": {
-            "githubStars": 76391,
+            "githubStars": 76393,
             "npmDownloads": null,
             "soQuestions": 58385
           }
@@ -756,7 +899,7 @@
           "name": "Redis",
           "score": 47,
           "metrics": {
-            "githubStars": 73528,
+            "githubStars": 73538,
             "npmDownloads": null,
             "soQuestions": 25615
           }
@@ -767,9 +910,9 @@
           "name": "MySQL",
           "score": 46,
           "metrics": {
-            "githubStars": 12209,
+            "githubStars": 12210,
             "npmDownloads": null,
-            "soQuestions": 659497
+            "soQuestions": 659493
           }
         },
         {
@@ -778,7 +921,7 @@
           "name": "Prisma",
           "score": 41,
           "metrics": {
-            "githubStars": 45590,
+            "githubStars": 45592,
             "npmDownloads": 9355280,
             "soQuestions": 3883
           }
@@ -789,7 +932,7 @@
           "name": "DrizzleORM",
           "score": 38,
           "metrics": {
-            "githubStars": 33454,
+            "githubStars": 33467,
             "npmDownloads": 6073741,
             "soQuestions": null
           }
@@ -800,7 +943,7 @@
           "name": "MongoDB",
           "score": 28,
           "metrics": {
-            "githubStars": 28211,
+            "githubStars": 28215,
             "npmDownloads": null,
             "soQuestions": 175978
           }
@@ -811,9 +954,9 @@
           "name": "PostgreSQL",
           "score": 23,
           "metrics": {
-            "githubStars": 20371,
+            "githubStars": 20383,
             "npmDownloads": null,
-            "soQuestions": 180012
+            "soQuestions": 180013
           }
         },
         {
@@ -829,11 +972,11 @@
         },
         {
           "rank": 10,
-          "rankChange": null,
+          "rankChange": 0,
           "name": "OpenGauss",
           "score": 1,
           "metrics": {
-            "githubStars": 1073,
+            "githubStars": 1081,
             "npmDownloads": null,
             "soQuestions": null
           }
@@ -842,7 +985,7 @@
     },
     "testing": {
       "label": "테스팅",
-      "updatedAt": "2026-03-24T15:37:59.283Z",
+      "updatedAt": "2026-03-25T07:27:40.532Z",
       "rankings": [
         {
           "rank": 1,
@@ -850,7 +993,7 @@
           "name": "Jest",
           "score": 80,
           "metrics": {
-            "githubStars": 45332,
+            "githubStars": 45331,
             "npmDownloads": 45503384,
             "soQuestions": 23012
           }
@@ -861,7 +1004,7 @@
           "name": "Playwright",
           "score": 72,
           "metrics": {
-            "githubStars": 84888,
+            "githubStars": 84938,
             "npmDownloads": 39806814,
             "soQuestions": 3751
           }
@@ -872,7 +1015,7 @@
           "name": "Storybook",
           "score": 52,
           "metrics": {
-            "githubStars": 89506,
+            "githubStars": 89513,
             "npmDownloads": 12103768,
             "soQuestions": 2164
           }
@@ -883,7 +1026,7 @@
           "name": "Testing Library",
           "score": 46,
           "metrics": {
-            "githubStars": 19560,
+            "githubStars": 19561,
             "npmDownloads": 33702493,
             "soQuestions": null
           }
@@ -894,7 +1037,7 @@
           "name": "Vitest",
           "score": 41,
           "metrics": {
-            "githubStars": 16221,
+            "githubStars": 16222,
             "npmDownloads": 42776683,
             "soQuestions": 956
           }
@@ -905,7 +1048,7 @@
           "name": "Cypress",
           "score": 38,
           "metrics": {
-            "githubStars": 49614,
+            "githubStars": 49611,
             "npmDownloads": 7404178,
             "soQuestions": 9821
           }
@@ -914,7 +1057,7 @@
     },
     "language": {
       "label": "프로그래밍 언어",
-      "updatedAt": "2026-03-24T15:38:03.290Z",
+      "updatedAt": "2026-03-25T07:27:43.661Z",
       "rankings": [
         {
           "rank": 1,
@@ -922,9 +1065,9 @@
           "name": "Python",
           "score": 72,
           "metrics": {
-            "githubStars": 72084,
+            "githubStars": 72095,
             "npmDownloads": null,
-            "soQuestions": 2221387
+            "soQuestions": 2221396
           }
         },
         {
@@ -933,7 +1076,7 @@
           "name": "Go",
           "score": 63,
           "metrics": {
-            "githubStars": 133142,
+            "githubStars": 133152,
             "npmDownloads": null,
             "soQuestions": 75058
           }
@@ -944,9 +1087,9 @@
           "name": "Rust",
           "score": 52,
           "metrics": {
-            "githubStars": 111459,
+            "githubStars": 111478,
             "npmDownloads": null,
-            "soQuestions": 44464
+            "soQuestions": 44463
           }
         },
         {
@@ -955,7 +1098,7 @@
           "name": "Swift",
           "score": 38,
           "metrics": {
-            "githubStars": 69871,
+            "githubStars": 69875,
             "npmDownloads": null,
             "soQuestions": 337312
           }
@@ -966,9 +1109,9 @@
           "name": "Kotlin",
           "score": 26,
           "metrics": {
-            "githubStars": 52496,
+            "githubStars": 52500,
             "npmDownloads": null,
-            "soQuestions": 98890
+            "soQuestions": 98893
           }
         },
         {
@@ -977,7 +1120,7 @@
           "name": "Zig",
           "score": 20,
           "metrics": {
-            "githubStars": 42838,
+            "githubStars": 42836,
             "npmDownloads": null,
             "soQuestions": 473
           }
@@ -988,7 +1131,7 @@
           "name": "Elixir",
           "score": 12,
           "metrics": {
-            "githubStars": 26483,
+            "githubStars": 26485,
             "npmDownloads": null,
             "soQuestions": 9659
           }
