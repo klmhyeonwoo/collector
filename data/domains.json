@@ -267,6 +267,12 @@
       },
       {
         "name": "Codeberg"
+      },
+      {
+        "name": "CC-Gateway",
+        "github": "motiful/cc-gateway",
+        "npm": "cc-gateway",
+        "so": "api-gateway"
       }
     ]
   },
@@ -397,6 +403,18 @@
       },
       {
         "name": "TurboQuant"
+      },
+      {
+        "name": "Open Agent SDK TypeScript",
+        "github": "codeany-ai/open-agent-sdk-typescript",
+        "npm": "open-agent-sdk-typescript",
+        "so": "ai-agents"
+      },
+      {
+        "name": "Open Multi-Agent",
+        "github": "JackChen-me/open-multi-agent",
+        "npm": "open-multi-agent",
+        "so": "ai-agents"
       }
     ]
   },
@@ -470,6 +488,12 @@
         "github": "apache/cassandra",
         "dockerhub": "library/cassandra",
         "so": "apache-cassandra"
+      },
+      {
+        "name": "pgmicro",
+        "github": "glommer/pgmicro",
+        "cargo": "pgmicro",
+        "so": "postgresql"
       }
     ]
   },
