@@ -431,6 +431,29 @@
         "github": "apple/mlx",
         "pypi": "mlx",
         "so": "mlx"
+      },
+      {
+        "name": "OpenHarness",
+        "github": "HKUDS/OpenHarness",
+        "pypi": "openharness"
+      },
+      {
+        "name": "Gemma",
+        "github": "google/gemma"
+      },
+      {
+        "name": "Qwen",
+        "github": "QwenLM/Qwen"
+      },
+      {
+        "name": "Lemonade",
+        "github": "amd/lemonade",
+        "pypi": "lemonade-llm"
+      },
+      {
+        "name": "Gemini",
+        "github": "google/generative-ai-python",
+        "pypi": "google-generativeai"
       }
     ]
   },
