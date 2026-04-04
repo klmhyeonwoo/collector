@@ -87,6 +87,11 @@
         "github": "pmndrs/zustand",
         "npm": "zustand",
         "so": "zustand"
+      },
+      {
+        "name": "Boneyard",
+        "github": "0xGF/boneyard",
+        "so": "skeleton-loading"
       }
     ]
   },
@@ -454,6 +459,11 @@
         "name": "Gemini",
         "github": "google/generative-ai-python",
         "pypi": "google-generativeai"
+      },
+      {
+        "name": "AutoAgent",
+        "github": "kevinrgu/autoagent",
+        "so": "ai-agents"
       }
     ]
   },
