@@ -464,6 +464,12 @@
         "name": "AutoAgent",
         "github": "kevinrgu/autoagent",
         "so": "ai-agents"
+      },
+      {
+        "name": "OmniVoice",
+        "github": "k2-fsa/OmniVoice",
+        "pypi": "omni-voice",
+        "so": "speech-synthesis"
       }
     ]
   },
