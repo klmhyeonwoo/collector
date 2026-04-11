@@ -187,6 +187,10 @@
         "name": "ConnectRPC",
         "github": "connectrpc/connect",
         "so": "connectrpc"
+      },
+      {
+        "name": "Tailslayer",
+        "github": "LaurieWired/tailslayer"
       }
     ]
   },
@@ -474,6 +478,15 @@
       {
         "name": "CopilotKit",
         "github": "CopilotKit/CopilotKit"
+      },
+      {
+        "name": "MemPalace",
+        "github": "milla-jovovich/mempalace",
+        "pypi": "mempalace"
+      },
+      {
+        "name": "GLM-5.1",
+        "github": "THUDM/ChatGLM"
       }
     ]
   },
