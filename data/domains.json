@@ -92,6 +92,12 @@
         "name": "Boneyard",
         "github": "0xGF/boneyard",
         "so": "skeleton-loading"
+      },
+      {
+        "name": "Servo",
+        "github": "servo/servo",
+        "cargo": "servo",
+        "so": "servo"
       }
     ]
   },
@@ -282,6 +288,12 @@
         "github": "motiful/cc-gateway",
         "npm": "cc-gateway",
         "so": "api-gateway"
+      },
+      {
+        "name": "Jujutsu",
+        "github": "martinvonz/jj",
+        "cargo": "jj-cli",
+        "so": "jujutsu-vcs"
       }
     ]
   },
