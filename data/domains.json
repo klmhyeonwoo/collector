@@ -294,6 +294,14 @@
         "github": "martinvonz/jj",
         "cargo": "jj-cli",
         "so": "jujutsu-vcs"
+      },
+      {
+        "name": "Smol machines",
+        "so": "smol-machines"
+      },
+      {
+        "name": "scbake",
+        "so": "scbake"
       }
     ]
   },
@@ -511,6 +519,12 @@
       },
       {
         "name": "Claude Design"
+      },
+      {
+        "name": "TileKernels",
+        "github": "deepseek-ai/TileKernels",
+        "pypi": "tilekernels",
+        "so": "tilekernels"
       }
     ]
   },
@@ -590,6 +604,10 @@
         "github": "glommer/pgmicro",
         "cargo": "pgmicro",
         "so": "postgresql"
+      },
+      {
+        "name": "ggsql",
+        "so": "ggsql"
       }
     ]
   },
