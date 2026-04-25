@@ -302,6 +302,15 @@
       {
         "name": "scbake",
         "so": "scbake"
+      },
+      {
+        "name": "MasterHttpRelayVPN",
+        "github": "masterking32/MasterHttpRelayVPN",
+        "so": "proxy"
+      },
+      {
+        "name": "Windows 9x Subsystem for Linux",
+        "so": "wsl"
       }
     ]
   },
@@ -525,6 +534,22 @@
         "github": "deepseek-ai/TileKernels",
         "pypi": "tilekernels",
         "so": "tilekernels"
+      },
+      {
+        "name": "DeepSeek v4",
+        "so": "deepseek"
+      },
+      {
+        "name": "GPT-5.5",
+        "so": "gpt"
+      },
+      {
+        "name": "Kimi K2.6",
+        "so": "kimi"
+      },
+      {
+        "name": "GitHub Copilot",
+        "so": "github-copilot"
       }
     ]
   },
