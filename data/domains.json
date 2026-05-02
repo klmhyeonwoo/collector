@@ -311,6 +311,11 @@
       {
         "name": "Windows 9x Subsystem for Linux",
         "so": "wsl"
+      },
+      {
+        "name": "Zed",
+        "github": "zed-industries/zed",
+        "so": "zed-editor"
       }
     ]
   },
@@ -550,6 +555,16 @@
       {
         "name": "GitHub Copilot",
         "so": "github-copilot"
+      },
+      {
+        "name": "Mistral Medium 3.5",
+        "so": "mistral-ai"
+      },
+      {
+        "name": "JAX",
+        "github": "google/jax",
+        "pypi": "jax",
+        "so": "jax"
       }
     ]
   },
