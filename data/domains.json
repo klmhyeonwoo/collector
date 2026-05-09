@@ -202,6 +202,9 @@
         "name": "Dav1d",
         "github": "videolan/dav1d",
         "so": "dav1d"
+      },
+      {
+        "name": "Wormhole4j"
       }
     ]
   },
@@ -357,6 +360,10 @@
         "name": "Capacitor",
         "github": "ionic-team/capacitor",
         "npm": "@capacitor/core"
+      },
+      {
+        "name": "Zero Native",
+        "github": "vercel-labs/zero-native"
       }
     ]
   },
@@ -574,6 +581,9 @@
       {
         "name": "Mirage",
         "github": "strukto-ai/mirage"
+      },
+      {
+        "name": "Microsoft Phi 4"
       }
     ]
   },
