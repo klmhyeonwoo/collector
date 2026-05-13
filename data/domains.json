@@ -98,6 +98,12 @@
         "github": "servo/servo",
         "cargo": "servo",
         "so": "servo"
+      },
+      {
+        "name": "HTMX",
+        "github": "bigskysoftware/htmx",
+        "npm": "htmx.org",
+        "so": "htmx"
       }
     ]
   },
