@@ -342,6 +342,10 @@
         "github": "codeberg/forgejo",
         "dockerhub": "forgejo/forgejo",
         "so": "forgejo"
+      },
+      {
+        "name": "Bumblebee",
+        "github": "perplexityai/bumblebee"
       }
     ]
   },
@@ -382,6 +386,10 @@
       {
         "name": "Zero Native",
         "github": "vercel-labs/zero-native"
+      },
+      {
+        "name": "swiftgen",
+        "so": "swiftgen"
       }
     ]
   },
@@ -606,6 +614,15 @@
       {
         "name": "ds4",
         "github": "antirez/ds4"
+      },
+      {
+        "name": "Turtle"
+      },
+      {
+        "name": "Google Antigravity"
+      },
+      {
+        "name": "Hermes"
       }
     ]
   },
@@ -797,6 +814,9 @@
         "name": "Zerolang",
         "github": "vercel-labs/zerolang",
         "so": "zerolang"
+      },
+      {
+        "name": "jnigen"
       }
     ]
   }
