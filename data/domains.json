@@ -346,6 +346,11 @@
       {
         "name": "Bumblebee",
         "github": "perplexityai/bumblebee"
+      },
+      {
+        "name": "Openrsync",
+        "github": "openbsd/rsync",
+        "so": "rsync"
       }
     ]
   },
@@ -709,6 +714,16 @@
       {
         "name": "ggsql",
         "so": "ggsql"
+      },
+      {
+        "name": "SQLite",
+        "so": "sqlite"
+      },
+      {
+        "name": "DuckDB",
+        "github": "duckdb/duckdb",
+        "pypi": "duckdb",
+        "so": "duckdb"
       }
     ]
   },
