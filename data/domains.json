@@ -351,6 +351,10 @@
         "name": "Openrsync",
         "github": "openbsd/rsync",
         "so": "rsync"
+      },
+      {
+        "name": "Gubernator",
+        "so": "kubernetes"
       }
     ]
   },
@@ -631,6 +635,18 @@
       },
       {
         "name": "Forge"
+      },
+      {
+        "name": "MAI-Code-1",
+        "so": "ai"
+      },
+      {
+        "name": "LlamaStash",
+        "so": "llamacpp"
+      },
+      {
+        "name": "Strake",
+        "so": "ai"
       }
     ]
   },
@@ -835,6 +851,10 @@
       },
       {
         "name": "jnigen"
+      },
+      {
+        "name": "Janet",
+        "so": "janet-lang"
       }
     ]
   }
