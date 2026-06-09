@@ -104,6 +104,11 @@
         "github": "bigskysoftware/htmx",
         "npm": "htmx.org",
         "so": "htmx"
+      },
+      {
+        "name": "TanStack Start",
+        "github": "TanStack/start",
+        "npm": "@tanstack/start"
       }
     ]
   },
@@ -656,6 +661,12 @@
       },
       {
         "name": "Google ADK"
+      },
+      {
+        "name": "OpenCV",
+        "github": "opencv/opencv",
+        "pypi": "opencv-python",
+        "so": "opencv"
       }
     ]
   },
