@@ -228,6 +228,9 @@
         "github": "temporalio/temporal",
         "dockerhub": "temporalio/temporal",
         "so": "temporal"
+      },
+      {
+        "name": "PgDog"
       }
     ]
   },
@@ -366,6 +369,9 @@
       {
         "name": "Gubernator",
         "so": "kubernetes"
+      },
+      {
+        "name": "πFS"
       }
     ]
   },
