@@ -372,6 +372,11 @@
       },
       {
         "name": "πFS"
+      },
+      {
+        "name": "Homebrew",
+        "github": "Homebrew/brew",
+        "so": "homebrew"
       }
     ]
   },
@@ -673,6 +678,10 @@
         "github": "opencv/opencv",
         "pypi": "opencv-python",
         "so": "opencv"
+      },
+      {
+        "name": "MiMo-Code",
+        "github": "XiaomiMiMo/MiMo-Code"
       }
     ]
   },
