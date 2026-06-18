@@ -383,6 +383,10 @@
         "name": "Homebrew",
         "github": "Homebrew/brew",
         "so": "homebrew"
+      },
+      {
+        "name": "AWS Blocks",
+        "so": "aws-blocks"
       }
     ]
   },
@@ -694,6 +698,15 @@
         "github": "omnigent-ai/omnigent",
         "pypi": "omnigent",
         "so": "ai-agents, multi-agent-systems"
+      },
+      {
+        "name": "Eve",
+        "github": "vercel/eve",
+        "so": "vercel-eve"
+      },
+      {
+        "name": "Agent Toolkit for AWS",
+        "so": "aws-agent-toolkit"
       }
     ]
   },
