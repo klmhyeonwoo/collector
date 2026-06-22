@@ -387,6 +387,12 @@
       {
         "name": "AWS Blocks",
         "so": "aws-blocks"
+      },
+      {
+        "name": "GoAccess",
+        "github": "goaccess/goaccess",
+        "dockerhub": "allinurl/goaccess",
+        "so": "goaccess"
       }
     ]
   },
