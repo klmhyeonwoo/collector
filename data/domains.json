@@ -815,6 +815,25 @@
       },
       {
         "name": "pg_durable"
+      },
+      {
+        "name": "Pinecone",
+        "pypi": "pinecone-client",
+        "so": "pinecone"
+      },
+      {
+        "name": "Weaviate",
+        "github": "weaviate/weaviate",
+        "pypi": "weaviate-client",
+        "dockerhub": "semitechnologies/weaviate",
+        "so": "weaviate"
+      },
+      {
+        "name": "Milvus",
+        "github": "milvus-io/milvus",
+        "pypi": "pymilvus",
+        "dockerhub": "milvusdb/milvus",
+        "so": "milvus"
       }
     ]
   },
