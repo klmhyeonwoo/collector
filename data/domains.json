@@ -399,6 +399,14 @@
         "github": "goaccess/goaccess",
         "dockerhub": "allinurl/goaccess",
         "so": "goaccess"
+      },
+      {
+        "name": "Cloudflare Drop",
+        "so": "cloudflare-drop"
+      },
+      {
+        "name": "Railway",
+        "so": "railway-app"
       }
     ]
   },
@@ -723,6 +731,14 @@
       {
         "name": "DeepSpec",
         "github": "deepseek-ai/DeepSpec"
+      },
+      {
+        "name": "Grok",
+        "so": "grok"
+      },
+      {
+        "name": "Kokoro",
+        "so": "kokoro-tts"
       }
     ]
   },
