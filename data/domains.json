@@ -115,6 +115,9 @@
         "github": "pmndrs/react-three-fiber",
         "npm": "@react-three/fiber",
         "so": "react-three-fiber"
+      },
+      {
+        "name": "Fusuma"
       }
     ]
   },
@@ -742,6 +745,33 @@
       {
         "name": "Kokoro",
         "so": "kokoro-tts"
+      },
+      {
+        "name": "GPT-5.6"
+      },
+      {
+        "name": "GLM 5.2"
+      },
+      {
+        "name": "Grok 4.5"
+      },
+      {
+        "name": "GPT-Live"
+      },
+      {
+        "name": "Apple SpeechAnalyzer API"
+      },
+      {
+        "name": "Robostral Navigate"
+      },
+      {
+        "name": "Muse Spark 1.1"
+      },
+      {
+        "name": "Claude Max"
+      },
+      {
+        "name": "Gemma-4"
       }
     ]
   },
@@ -972,6 +1002,10 @@
       {
         "name": "Janet",
         "so": "janet-lang"
+      },
+      {
+        "name": "TypeScript 7",
+        "so": "typescript"
       }
     ]
   }
