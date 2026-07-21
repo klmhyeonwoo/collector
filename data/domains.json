@@ -123,6 +123,11 @@
         "name": "Aval",
         "github": "pixel-point/aval",
         "npm": "aval"
+      },
+      {
+        "name": "Jelly UI",
+        "npm": "jelly-ui",
+        "so": "jelly-ui"
       }
     ]
   },
@@ -794,6 +799,16 @@
       },
       {
         "name": "GPT-5.6 Sol Ultra"
+      },
+      {
+        "name": "img2threejs",
+        "github": "hoainho/img2threejs",
+        "pypi": "img2threejs",
+        "so": "img2threejs"
+      },
+      {
+        "name": "Transcribe.cpp",
+        "so": "transcribecpp"
       }
     ]
   },
