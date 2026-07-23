@@ -428,6 +428,17 @@
       },
       {
         "name": "OrinIDE"
+      },
+      {
+        "name": "SigNoz",
+        "github": "SigNoz/signoz",
+        "dockerhub": "signoz/signoz",
+        "so": "signoz"
+      },
+      {
+        "name": "SOCI",
+        "github": "awslabs/soci-snapshotter",
+        "dockerhub": "aws-ecr/soci-snapshotter"
       }
     ]
   },
