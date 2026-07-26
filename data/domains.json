@@ -132,6 +132,12 @@
       {
         "name": "98.css",
         "so": "css"
+      },
+      {
+        "name": "thinking-orbs",
+        "github": "Jakubantalik/thinking-orbs",
+        "npm": "thinking-orbs",
+        "so": "ui-component"
       }
     ]
   },
@@ -265,6 +271,11 @@
         "name": "mimic",
         "github": "littledivy/mimic",
         "pypi": "mimic"
+      },
+      {
+        "name": "Topcoat",
+        "cargo": "topcoat",
+        "so": "rust-web-framework"
       }
     ]
   },
@@ -443,6 +454,10 @@
         "name": "SOCI",
         "github": "awslabs/soci-snapshotter",
         "dockerhub": "aws-ecr/soci-snapshotter"
+      },
+      {
+        "name": "pwru",
+        "so": "linux-kernel-debugging"
       }
     ]
   },
@@ -824,6 +839,16 @@
       {
         "name": "Transcribe.cpp",
         "so": "transcribecpp"
+      },
+      {
+        "name": "esp32-ai",
+        "github": "slvDev/esp32-ai",
+        "pypi": "esp32-ai",
+        "so": "esp32-ai"
+      },
+      {
+        "name": "GigaToken",
+        "so": "tokenization"
       }
     ]
   },
