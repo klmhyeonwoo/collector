@@ -869,6 +869,11 @@
       {
         "name": "Claude Opus 5",
         "so": "anthropic-claude"
+      },
+      {
+        "name": "qm",
+        "github": "yc-software/qm",
+        "npm": "@yc-software/qm"
       }
     ]
   },
