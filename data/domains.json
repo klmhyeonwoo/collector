@@ -470,6 +470,11 @@
         "github": "siderolabs/talos",
         "dockerhub": "ghcr.io/siderolabs/talos",
         "so": "talos-linux"
+      },
+      {
+        "name": "npmx",
+        "github": "juliencrn/npmx",
+        "npm": "npmx"
       }
     ]
   },
