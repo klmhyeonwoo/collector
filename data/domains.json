@@ -144,6 +144,11 @@
         "github": "ratatui-org/ratatui",
         "cargo": "ratatui",
         "so": "ratatui"
+      },
+      {
+        "name": "Jaspr",
+        "github": "schultek/jaspr",
+        "so": "jaspr"
       }
     ]
   },
@@ -475,6 +480,11 @@
         "name": "npmx",
         "github": "juliencrn/npmx",
         "npm": "npmx"
+      },
+      {
+        "name": "ratatop",
+        "github": "ratatop/ratatop",
+        "cargo": "ratatop"
       }
     ]
   },
@@ -879,6 +889,10 @@
         "name": "qm",
         "github": "yc-software/qm",
         "npm": "@yc-software/qm"
+      },
+      {
+        "name": "waste",
+        "github": "sqliteai/waste"
       }
     ]
   },
