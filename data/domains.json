@@ -287,6 +287,13 @@
         "name": "Topcoat",
         "cargo": "topcoat",
         "so": "rust-web-framework"
+      },
+      {
+        "name": "anydoc",
+        "github": "firecrawl/anydoc",
+        "npm": "anydoc",
+        "pypi": "anydoc",
+        "cargo": "anydoc"
       }
     ]
   },
@@ -485,6 +492,10 @@
         "name": "ratatop",
         "github": "ratatop/ratatop",
         "cargo": "ratatop"
+      },
+      {
+        "name": "Diátaxis",
+        "so": "documentation"
       }
     ]
   },
