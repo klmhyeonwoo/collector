@@ -297,6 +297,10 @@
         "npm": "anydoc",
         "pypi": "anydoc",
         "cargo": "anydoc"
+      },
+      {
+        "name": "FFmpeg",
+        "so": "ffmpeg"
       }
     ]
   },
