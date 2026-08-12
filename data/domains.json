@@ -152,6 +152,11 @@
       },
       {
         "name": "Bonsai UI"
+      },
+      {
+        "name": "oil-motion",
+        "github": "oil-oil/oil-motion",
+        "pypi": "oil-motion"
       }
     ]
   },
@@ -506,6 +511,10 @@
       },
       {
         "name": "Cloudflare OS"
+      },
+      {
+        "name": "eBPF",
+        "so": "ebpf"
       }
     ]
   },
@@ -939,6 +948,9 @@
       },
       {
         "name": "Needle2"
+      },
+      {
+        "name": "WeatherNext"
       }
     ]
   },
@@ -1181,6 +1193,11 @@
         "name": "scriptc",
         "github": "vercel-labs/scriptc",
         "npm": "scriptc"
+      },
+      {
+        "name": "Sonic Pi",
+        "github": "sonic-pi-net/sonic-pi",
+        "so": "sonic-pi"
       }
     ]
   }
