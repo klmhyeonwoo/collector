@@ -515,6 +515,9 @@
       {
         "name": "eBPF",
         "so": "ebpf"
+      },
+      {
+        "name": "Docker Sandboxes"
       }
     ]
   },
@@ -951,6 +954,11 @@
       },
       {
         "name": "WeatherNext"
+      },
+      {
+        "name": "DeepSeek Harness",
+        "github": "deepseek-ai/deepseek-harness",
+        "npm": "deepseek-harness"
       }
     ]
   },
