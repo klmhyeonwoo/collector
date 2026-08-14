@@ -562,6 +562,10 @@
       {
         "name": "swiftgen",
         "so": "swiftgen"
+      },
+      {
+        "name": "BlocSignal",
+        "so": "flutter-bloc-signal"
       }
     ]
   },
@@ -1206,6 +1210,10 @@
         "name": "Sonic Pi",
         "github": "sonic-pi-net/sonic-pi",
         "so": "sonic-pi"
+      },
+      {
+        "name": "Mojo",
+        "so": "mojo-lang"
       }
     ]
   }
