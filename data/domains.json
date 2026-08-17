@@ -523,6 +523,19 @@
       },
       {
         "name": "Docker Sandboxes"
+      },
+      {
+        "name": "Sentry",
+        "github": "getsentry/sentry",
+        "npm": "@sentry/javascript",
+        "pypi": "sentry-sdk",
+        "so": "sentry"
+      },
+      {
+        "name": "Weave Scope",
+        "github": "weaveworks/scope",
+        "dockerhub": "weaveworks/scope",
+        "so": "weave-scope"
       }
     ]
   },
@@ -571,6 +584,11 @@
       {
         "name": "BlocSignal",
         "so": "flutter-bloc-signal"
+      },
+      {
+        "name": "Riverpod",
+        "github": "rrousselGit/riverpod",
+        "so": "riverpod"
       }
     ]
   },
@@ -968,6 +986,9 @@
         "name": "DeepSeek Harness",
         "github": "deepseek-ai/deepseek-harness",
         "npm": "deepseek-harness"
+      },
+      {
+        "name": "H3-metal"
       }
     ]
   },
