@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-08-18T15:22:12.907Z",
+  "collectedAt": "2026-08-19T15:21:45.299Z",
   "sources": [
     "GitHub Stars",
     "npm weekly downloads",
@@ -11,7 +11,7 @@
   "domains": {
     "frontend": {
       "label": "프론트엔드",
-      "updatedAt": "2026-08-18T15:20:34.779Z",
+      "updatedAt": "2026-08-19T15:20:06.609Z",
       "rankings": [
         {
           "rank": 1,
@@ -25,7 +25,7 @@
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 805679
+            "soQuestions": 805676
           }
         },
         {
@@ -35,12 +35,12 @@
           "score": 77,
           "confidence": "high",
           "metrics": {
-            "githubStars": 247407,
-            "npmDownloads": 115573856,
+            "githubStars": 247420,
+            "npmDownloads": 143700450,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 473907
+            "soQuestions": 473906
           }
         },
         {
@@ -50,12 +50,12 @@
           "score": 60,
           "confidence": "high",
           "metrics": {
-            "githubStars": 110189,
-            "npmDownloads": 180404383,
+            "githubStars": 110209,
+            "npmDownloads": 225564163,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 234163
+            "soQuestions": 234161
           }
         },
         {
@@ -65,7 +65,7 @@
           "score": 49,
           "confidence": "low",
           "metrics": {
-            "githubStars": 121566,
+            "githubStars": 121645,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -75,62 +75,62 @@
         },
         {
           "rank": 5,
-          "rankChange": 0,
-          "name": "Vite",
-          "score": 41,
-          "confidence": "high",
-          "metrics": {
-            "githubStars": 82390,
-            "npmDownloads": 142923941,
-            "pypiDownloads": null,
-            "cargoDownloads": null,
-            "dockerPulls": null,
-            "soQuestions": 6820
-          }
-        },
-        {
-          "rank": 6,
-          "rankChange": 0,
+          "rankChange": 1,
           "name": "ratatui",
           "score": 39,
           "confidence": "high",
           "metrics": {
-            "githubStars": 22269,
+            "githubStars": 22280,
             "npmDownloads": null,
             "pypiDownloads": null,
-            "cargoDownloads": 16273194,
+            "cargoDownloads": 16318603,
             "dockerPulls": null,
             "soQuestions": 7
           }
         },
         {
-          "rank": 7,
-          "rankChange": 0,
-          "name": "Next.js",
-          "score": 33,
+          "rank": 6,
+          "rankChange": -1,
+          "name": "Vite",
+          "score": 36,
           "confidence": "high",
           "metrics": {
-            "githubStars": 141847,
-            "npmDownloads": 45881963,
+            "githubStars": 82410,
+            "npmDownloads": 142792478,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 41558
+            "soQuestions": 6821
           }
         },
         {
-          "rank": 8,
-          "rankChange": 0,
+          "rank": 7,
+          "rankChange": 1,
           "name": "Tailwind CSS",
           "score": 32,
           "confidence": "high",
           "metrics": {
-            "githubStars": 97273,
-            "npmDownloads": 85411470,
+            "githubStars": 97287,
+            "npmDownloads": 105899796,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 10557
+            "soQuestions": 10555
+          }
+        },
+        {
+          "rank": 8,
+          "rankChange": -1,
+          "name": "Next.js",
+          "score": 31,
+          "confidence": "high",
+          "metrics": {
+            "githubStars": 141866,
+            "npmDownloads": 45246816,
+            "pypiDownloads": null,
+            "cargoDownloads": null,
+            "dockerPulls": null,
+            "soQuestions": 41561
           }
         },
         {
@@ -140,23 +140,23 @@
           "score": 27,
           "confidence": "high",
           "metrics": {
-            "githubStars": 101004,
-            "npmDownloads": 4877971,
+            "githubStars": 101007,
+            "npmDownloads": 4780741,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 306412
+            "soQuestions": 306411
           }
         },
         {
           "rank": 10,
           "rankChange": 0,
           "name": "TanStack Query",
-          "score": 19,
+          "score": 17,
           "confidence": "high",
           "metrics": {
-            "githubStars": 50152,
-            "npmDownloads": 55822865,
+            "githubStars": 50164,
+            "npmDownloads": 55814571,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -167,11 +167,11 @@
           "rank": 11,
           "rankChange": 0,
           "name": "Zustand",
-          "score": 18,
+          "score": 17,
           "confidence": "high",
           "metrics": {
-            "githubStars": 58583,
-            "npmDownloads": 44452534,
+            "githubStars": 58584,
+            "npmDownloads": 44342835,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -182,11 +182,11 @@
           "rank": 12,
           "rankChange": 0,
           "name": "Svelte",
-          "score": 16,
+          "score": 15,
           "confidence": "high",
           "metrics": {
-            "githubStars": 87968,
-            "npmDownloads": 4787259,
+            "githubStars": 87980,
+            "npmDownloads": 4773626,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -200,12 +200,12 @@
           "score": 14,
           "confidence": "high",
           "metrics": {
-            "githubStars": 54212,
-            "npmDownloads": 9793131,
+            "githubStars": 54224,
+            "npmDownloads": 12415368,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 107926
+            "soQuestions": 107927
           }
         },
         {
@@ -215,8 +215,8 @@
           "score": 14,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 61844,
-            "npmDownloads": 3941987,
+            "githubStars": 61864,
+            "npmDownloads": 3895232,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -230,8 +230,8 @@
           "score": 11,
           "confidence": "high",
           "metrics": {
-            "githubStars": 60761,
-            "npmDownloads": 1675613,
+            "githubStars": 60764,
+            "npmDownloads": 1619661,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -245,8 +245,8 @@
           "score": 8,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 35854,
-            "npmDownloads": 3076591,
+            "githubStars": 35869,
+            "npmDownloads": 3123350,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -260,12 +260,12 @@
           "score": 8,
           "confidence": "high",
           "metrics": {
-            "githubStars": 48974,
-            "npmDownloads": 197251,
+            "githubStars": 48978,
+            "npmDownloads": 193420,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 603
+            "soQuestions": 602
           }
         },
         {
@@ -275,10 +275,10 @@
           "score": 6,
           "confidence": "high",
           "metrics": {
-            "githubStars": 37726,
+            "githubStars": 37733,
             "npmDownloads": null,
             "pypiDownloads": null,
-            "cargoDownloads": 23324,
+            "cargoDownloads": 23445,
             "dockerPulls": null,
             "soQuestions": 298
           }
@@ -290,8 +290,8 @@
           "score": 6,
           "confidence": "high",
           "metrics": {
-            "githubStars": 31728,
-            "npmDownloads": 4189003,
+            "githubStars": 31740,
+            "npmDownloads": 4025361,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -306,7 +306,7 @@
           "confidence": "high",
           "metrics": {
             "githubStars": 33310,
-            "npmDownloads": 577699,
+            "npmDownloads": 586839,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -321,7 +321,7 @@
           "confidence": "high",
           "metrics": {
             "githubStars": 22045,
-            "npmDownloads": 64076,
+            "npmDownloads": 84482,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -335,7 +335,7 @@
           "score": 3,
           "confidence": "low",
           "metrics": {
-            "githubStars": 6981,
+            "githubStars": 7008,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -351,7 +351,7 @@
           "confidence": "medium",
           "metrics": {
             "githubStars": 1367,
-            "npmDownloads": 1,
+            "npmDownloads": 0,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -365,8 +365,8 @@
           "score": 1,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 2519,
-            "npmDownloads": 229150,
+            "githubStars": 2530,
+            "npmDownloads": 230754,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -395,7 +395,7 @@
           "score": 1,
           "confidence": "low",
           "metrics": {
-            "githubStars": 1890,
+            "githubStars": 1918,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -410,7 +410,7 @@
           "score": 1,
           "confidence": "low",
           "metrics": {
-            "githubStars": 2556,
+            "githubStars": 2758,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -426,7 +426,7 @@
           "confidence": "low",
           "metrics": {
             "githubStars": null,
-            "npmDownloads": 6132,
+            "npmDownloads": 7257,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -456,7 +456,7 @@
           "confidence": "low",
           "metrics": {
             "githubStars": null,
-            "npmDownloads": 5,
+            "npmDownloads": 6,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -482,7 +482,7 @@
     },
     "backend": {
       "label": "백엔드",
-      "updatedAt": "2026-08-18T15:20:48.128Z",
+      "updatedAt": "2026-08-19T15:20:20.278Z",
       "rankings": [
         {
           "rank": 1,
@@ -491,7 +491,7 @@
           "score": 100,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 119009,
+            "githubStars": 119020,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -501,42 +501,57 @@
         },
         {
           "rank": 2,
-          "rankChange": 0,
-          "name": "FastAPI",
-          "score": 70,
-          "confidence": "high",
+          "rankChange": 5,
+          "name": "Django",
+          "score": 71,
+          "confidence": "medium",
           "metrics": {
-            "githubStars": 101676,
+            "githubStars": 88474,
             "npmDownloads": null,
-            "pypiDownloads": 144198511,
+            "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 7300
+            "soQuestions": 311163
           }
         },
         {
           "rank": 3,
-          "rankChange": 0,
-          "name": "Express",
-          "score": 63,
+          "rankChange": -1,
+          "name": "FastAPI",
+          "score": 70,
           "confidence": "high",
           "metrics": {
-            "githubStars": 69378,
-            "npmDownloads": 109881741,
-            "pypiDownloads": null,
+            "githubStars": 101696,
+            "npmDownloads": null,
+            "pypiDownloads": 143136480,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 94744
+            "soQuestions": 7299
           }
         },
         {
           "rank": 4,
-          "rankChange": 0,
+          "rankChange": -1,
+          "name": "Express",
+          "score": 63,
+          "confidence": "high",
+          "metrics": {
+            "githubStars": 69383,
+            "npmDownloads": 109066653,
+            "pypiDownloads": null,
+            "cargoDownloads": null,
+            "dockerPulls": null,
+            "soQuestions": 94743
+          }
+        },
+        {
+          "rank": 5,
+          "rankChange": -1,
           "name": "Deno",
           "score": 56,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 108253,
+            "githubStars": 108260,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -545,48 +560,33 @@
           }
         },
         {
-          "rank": 5,
-          "rankChange": 0,
+          "rank": 6,
+          "rankChange": -1,
           "name": "Spring Boot",
           "score": 54,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 81312,
+            "githubStars": 81324,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 150310
-          }
-        },
-        {
-          "rank": 6,
-          "rankChange": 0,
-          "name": "Bun",
-          "score": 49,
-          "confidence": "medium",
-          "metrics": {
-            "githubStars": 95446,
-            "npmDownloads": null,
-            "pypiDownloads": null,
-            "cargoDownloads": null,
-            "dockerPulls": null,
-            "soQuestions": 272
+            "soQuestions": 150312
           }
         },
         {
           "rank": 7,
-          "rankChange": 0,
-          "name": "Django",
+          "rankChange": -1,
+          "name": "Bun",
           "score": 49,
-          "confidence": "high",
+          "confidence": "medium",
           "metrics": {
-            "githubStars": 88469,
+            "githubStars": 95459,
             "npmDownloads": null,
-            "pypiDownloads": 12339471,
+            "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 311163
+            "soQuestions": 271
           }
         },
         {
@@ -596,7 +596,7 @@
           "score": 46,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 89080,
+            "githubStars": 89084,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -611,10 +611,10 @@
           "score": 44,
           "confidence": "high",
           "metrics": {
-            "githubStars": 26900,
+            "githubStars": 26911,
             "npmDownloads": null,
             "pypiDownloads": null,
-            "cargoDownloads": 106601333,
+            "cargoDownloads": 106784664,
             "dockerPulls": null,
             "soQuestions": 205
           }
@@ -626,11 +626,11 @@
           "score": 43,
           "confidence": "high",
           "metrics": {
-            "githubStars": 22387,
+            "githubStars": 22397,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
-            "dockerPulls": 2817550,
+            "dockerPulls": 2861216,
             "soQuestions": 278
           }
         },
@@ -641,9 +641,9 @@
           "score": 39,
           "confidence": "high",
           "metrics": {
-            "githubStars": 72138,
+            "githubStars": 72136,
             "npmDownloads": null,
-            "pypiDownloads": 48174209,
+            "pypiDownloads": 48018165,
             "cargoDownloads": null,
             "dockerPulls": null,
             "soQuestions": 54986
@@ -656,8 +656,8 @@
           "score": 30,
           "confidence": "high",
           "metrics": {
-            "githubStars": 76393,
-            "npmDownloads": 9376687,
+            "githubStars": 76403,
+            "npmDownloads": 11744346,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -668,14 +668,14 @@
           "rank": 13,
           "rankChange": 0,
           "name": "Solana",
-          "score": 30,
+          "score": 29,
           "confidence": "high",
           "metrics": {
             "githubStars": 14941,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
-            "dockerPulls": 1959472,
+            "dockerPulls": 1963042,
             "soQuestions": 1348
           }
         },
@@ -683,11 +683,11 @@
           "rank": 14,
           "rankChange": 0,
           "name": "Hono",
-          "score": 27,
+          "score": 26,
           "confidence": "high",
           "metrics": {
-            "githubStars": 31714,
-            "npmDownloads": 49255141,
+            "githubStars": 31729,
+            "npmDownloads": 48340633,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -701,8 +701,8 @@
           "score": 16,
           "confidence": "high",
           "metrics": {
-            "githubStars": 37001,
-            "npmDownloads": 9978722,
+            "githubStars": 37007,
+            "npmDownloads": 9831365,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -716,8 +716,8 @@
           "score": 15,
           "confidence": "high",
           "metrics": {
-            "githubStars": 40524,
-            "npmDownloads": 3615790,
+            "githubStars": 40527,
+            "npmDownloads": 4650501,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -731,10 +731,10 @@
           "score": 12,
           "confidence": "high",
           "metrics": {
-            "githubStars": 24784,
+            "githubStars": 24789,
             "npmDownloads": null,
             "pypiDownloads": null,
-            "cargoDownloads": 9460504,
+            "cargoDownloads": 9501511,
             "dockerPulls": null,
             "soQuestions": 531
           }
@@ -746,8 +746,8 @@
           "score": 9,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 18914,
-            "npmDownloads": 779906,
+            "githubStars": 18919,
+            "npmDownloads": 806569,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -761,10 +761,10 @@
           "score": 7,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 16931,
-            "npmDownloads": 59,
-            "pypiDownloads": 263,
-            "cargoDownloads": 82366,
+            "githubStars": 17178,
+            "npmDownloads": 42,
+            "pypiDownloads": null,
+            "cargoDownloads": 97412,
             "dockerPulls": null,
             "soQuestions": null
           }
@@ -776,10 +776,10 @@
           "score": 6,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 12195,
+            "githubStars": 12204,
             "npmDownloads": null,
             "pypiDownloads": null,
-            "cargoDownloads": 1098505,
+            "cargoDownloads": 1114856,
             "dockerPulls": null,
             "soQuestions": null
           }
@@ -834,11 +834,11 @@
           "rankChange": 0,
           "name": "mimic",
           "score": 1,
-          "confidence": "medium",
+          "confidence": "low",
           "metrics": {
-            "githubStars": 1533,
+            "githubStars": 1534,
             "npmDownloads": null,
-            "pypiDownloads": 79,
+            "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
             "soQuestions": null
@@ -899,7 +899,7 @@
             "githubStars": null,
             "npmDownloads": null,
             "pypiDownloads": null,
-            "cargoDownloads": 7985,
+            "cargoDownloads": 8298,
             "dockerPulls": null,
             "soQuestions": null
           }
@@ -908,7 +908,7 @@
     },
     "devops": {
       "label": "데브옵스",
-      "updatedAt": "2026-08-18T15:21:08.008Z",
+      "updatedAt": "2026-08-19T15:20:40.309Z",
       "rankings": [
         {
           "rank": 1,
@@ -918,7 +918,7 @@
           "confidence": "low",
           "metrics": {
             "githubStars": null,
-            "npmDownloads": 14,
+            "npmDownloads": 22,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -932,12 +932,12 @@
           "score": 78,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 124575,
+            "githubStars": 124598,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 57730
+            "soQuestions": 57728
           }
         },
         {
@@ -947,7 +947,7 @@
           "score": 71,
           "confidence": "low",
           "metrics": {
-            "githubStars": 88823,
+            "githubStars": 88882,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -962,11 +962,11 @@
           "score": 60,
           "confidence": "high",
           "metrics": {
-            "githubStars": 76291,
+            "githubStars": 76305,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
-            "dockerPulls": 5298267889,
+            "dockerPulls": 5299299652,
             "soQuestions": 5844
           }
         },
@@ -977,10 +977,10 @@
           "score": 60,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 31044,
+            "githubStars": 31067,
             "npmDownloads": null,
             "pypiDownloads": null,
-            "cargoDownloads": 26582,
+            "cargoDownloads": 26545,
             "dockerPulls": null,
             "soQuestions": null
           }
@@ -992,17 +992,32 @@
           "score": 58,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 38046,
+            "githubStars": 38048,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 138970
+            "soQuestions": 138971
           }
         },
         {
           "rank": 7,
-          "rankChange": 1,
+          "rankChange": 5,
+          "name": "Sentry",
+          "score": 50,
+          "confidence": "high",
+          "metrics": {
+            "githubStars": 44576,
+            "npmDownloads": null,
+            "pypiDownloads": 43135238,
+            "cargoDownloads": null,
+            "dockerPulls": null,
+            "soQuestions": 1549
+          }
+        },
+        {
+          "rank": 8,
+          "rankChange": -1,
           "name": "Gubernator",
           "score": 42,
           "confidence": "low",
@@ -1012,47 +1027,47 @@
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 57730
-          }
-        },
-        {
-          "rank": 8,
-          "rankChange": 1,
-          "name": "Loki",
-          "score": 41,
-          "confidence": "high",
-          "metrics": {
-            "githubStars": 28757,
-            "npmDownloads": null,
-            "pypiDownloads": null,
-            "cargoDownloads": null,
-            "dockerPulls": 4779087827,
-            "soQuestions": 645
+            "soQuestions": 57728
           }
         },
         {
           "rank": 9,
-          "rankChange": 1,
-          "name": "Prometheus",
-          "score": 36,
+          "rankChange": -1,
+          "name": "Loki",
+          "score": 41,
           "confidence": "high",
           "metrics": {
-            "githubStars": 65736,
+            "githubStars": 28762,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
-            "dockerPulls": 1999539058,
-            "soQuestions": 6970
+            "dockerPulls": 4779502581,
+            "soQuestions": 645
           }
         },
         {
           "rank": 10,
-          "rankChange": 1,
+          "rankChange": -1,
+          "name": "Prometheus",
+          "score": 36,
+          "confidence": "high",
+          "metrics": {
+            "githubStars": 65751,
+            "npmDownloads": null,
+            "pypiDownloads": null,
+            "cargoDownloads": null,
+            "dockerPulls": 2000030006,
+            "soQuestions": 6970
+          }
+        },
+        {
+          "rank": 11,
+          "rankChange": -1,
           "name": "Terraform",
           "score": 30,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 49477,
+            "githubStars": 49487,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -1061,33 +1076,18 @@
           }
         },
         {
-          "rank": 11,
-          "rankChange": 1,
+          "rank": 12,
+          "rankChange": -1,
           "name": "Homebrew",
           "score": 26,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 49197,
+            "githubStars": 49206,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
             "soQuestions": 6974
-          }
-        },
-        {
-          "rank": 12,
-          "rankChange": -5,
-          "name": "Sentry",
-          "score": 23,
-          "confidence": "medium",
-          "metrics": {
-            "githubStars": 44568,
-            "npmDownloads": null,
-            "pypiDownloads": null,
-            "cargoDownloads": null,
-            "dockerPulls": null,
-            "soQuestions": 1549
           }
         },
         {
@@ -1097,7 +1097,7 @@
           "score": 20,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 38354,
+            "githubStars": 38359,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -1112,7 +1112,7 @@
           "score": 19,
           "confidence": "low",
           "metrics": {
-            "githubStars": 23947,
+            "githubStars": 23953,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -1127,12 +1127,12 @@
           "score": 17,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 30153,
+            "githubStars": 30156,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 6369
+            "soQuestions": 6368
           }
         },
         {
@@ -1142,7 +1142,7 @@
           "score": 13,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 25579,
+            "githubStars": 25587,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -1157,11 +1157,11 @@
           "score": 12,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 5908,
+            "githubStars": 5909,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
-            "dockerPulls": 1057828836,
+            "dockerPulls": 1057831811,
             "soQuestions": null
           }
         },
@@ -1172,11 +1172,11 @@
           "score": 10,
           "confidence": "high",
           "metrics": {
-            "githubStars": 31866,
+            "githubStars": 31880,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
-            "dockerPulls": 876623,
+            "dockerPulls": 880856,
             "soQuestions": 9
           }
         },
@@ -1187,7 +1187,7 @@
           "score": 9,
           "confidence": "low",
           "metrics": {
-            "githubStars": 10968,
+            "githubStars": 10977,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -1217,7 +1217,7 @@
           "score": 6,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 6197,
+            "githubStars": 6201,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -1232,7 +1232,7 @@
           "score": 6,
           "confidence": "low",
           "metrics": {
-            "githubStars": 7409,
+            "githubStars": 7414,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -1247,7 +1247,7 @@
           "score": 5,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 8347,
+            "githubStars": 8354,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -1267,7 +1267,7 @@
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 5983
+            "soQuestions": 5981
           }
         },
         {
@@ -1277,7 +1277,7 @@
           "score": 4,
           "confidence": "low",
           "metrics": {
-            "githubStars": 4930,
+            "githubStars": 4932,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -1307,12 +1307,12 @@
           "score": 2,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 4140,
+            "githubStars": 4141,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 609
+            "soQuestions": 608
           }
         },
         {
@@ -1337,7 +1337,7 @@
           "score": 2,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 3001,
+            "githubStars": 3002,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -1362,22 +1362,7 @@
         },
         {
           "rank": 31,
-          "rankChange": 6,
-          "name": "πFS",
-          "score": 2,
-          "confidence": "low",
-          "metrics": {
-            "githubStars": null,
-            "npmDownloads": null,
-            "pypiDownloads": null,
-            "cargoDownloads": null,
-            "dockerPulls": null,
-            "soQuestions": 2907
-          }
-        },
-        {
-          "rank": 32,
-          "rankChange": -1,
+          "rankChange": 1,
           "name": "SOCI",
           "score": 1,
           "confidence": "medium",
@@ -1391,8 +1376,8 @@
           }
         },
         {
-          "rank": 33,
-          "rankChange": -1,
+          "rank": 32,
+          "rankChange": 1,
           "name": "eBPF",
           "score": 1,
           "confidence": "low",
@@ -1406,8 +1391,23 @@
           }
         },
         {
+          "rank": 33,
+          "rankChange": null,
+          "name": "ZSvirt",
+          "score": 1,
+          "confidence": "low",
+          "metrics": {
+            "githubStars": 1023,
+            "npmDownloads": null,
+            "pypiDownloads": null,
+            "cargoDownloads": null,
+            "dockerPulls": null,
+            "soQuestions": null
+          }
+        },
+        {
           "rank": 34,
-          "rankChange": -1,
+          "rankChange": 0,
           "name": "Codeberg",
           "score": 0,
           "confidence": "low",
@@ -1422,7 +1422,7 @@
         },
         {
           "rank": 35,
-          "rankChange": -1,
+          "rankChange": 0,
           "name": "Smol machines",
           "score": 0,
           "confidence": "low",
@@ -1437,7 +1437,7 @@
         },
         {
           "rank": 36,
-          "rankChange": -1,
+          "rankChange": 0,
           "name": "scbake",
           "score": 0,
           "confidence": "low",
@@ -1452,7 +1452,7 @@
         },
         {
           "rank": 37,
-          "rankChange": -1,
+          "rankChange": 0,
           "name": "Forgejo",
           "score": 0,
           "confidence": "medium",
@@ -1467,7 +1467,22 @@
         },
         {
           "rank": 38,
-          "rankChange": 0,
+          "rankChange": -7,
+          "name": "πFS",
+          "score": 0,
+          "confidence": "low",
+          "metrics": {
+            "githubStars": null,
+            "npmDownloads": null,
+            "pypiDownloads": null,
+            "cargoDownloads": null,
+            "dockerPulls": null,
+            "soQuestions": 280
+          }
+        },
+        {
+          "rank": 39,
+          "rankChange": -1,
           "name": "AWS Blocks",
           "score": 0,
           "confidence": "low",
@@ -1481,8 +1496,8 @@
           }
         },
         {
-          "rank": 39,
-          "rankChange": 0,
+          "rank": 40,
+          "rankChange": -1,
           "name": "GoAccess",
           "score": 0,
           "confidence": "high",
@@ -1491,13 +1506,13 @@
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
-            "dockerPulls": 5907396,
+            "dockerPulls": 5909798,
             "soQuestions": 52
           }
         },
         {
-          "rank": 40,
-          "rankChange": 0,
+          "rank": 41,
+          "rankChange": -1,
           "name": "Cloudflare Drop",
           "score": 0,
           "confidence": "low",
@@ -1511,8 +1526,8 @@
           }
         },
         {
-          "rank": 41,
-          "rankChange": 0,
+          "rank": 42,
+          "rankChange": -1,
           "name": "Railway",
           "score": 0,
           "confidence": "low",
@@ -1526,8 +1541,8 @@
           }
         },
         {
-          "rank": 42,
-          "rankChange": 0,
+          "rank": 43,
+          "rankChange": -1,
           "name": "OrinIDE",
           "score": 0,
           "confidence": "low",
@@ -1541,8 +1556,8 @@
           }
         },
         {
-          "rank": 43,
-          "rankChange": 0,
+          "rank": 44,
+          "rankChange": -1,
           "name": "pwru",
           "score": 0,
           "confidence": "low",
@@ -1556,8 +1571,8 @@
           }
         },
         {
-          "rank": 44,
-          "rankChange": 0,
+          "rank": 45,
+          "rankChange": -1,
           "name": "ratatop",
           "score": 0,
           "confidence": "low",
@@ -1571,8 +1586,8 @@
           }
         },
         {
-          "rank": 45,
-          "rankChange": 0,
+          "rank": 46,
+          "rankChange": -1,
           "name": "Cloudflare OS",
           "score": 0,
           "confidence": "low",
@@ -1586,8 +1601,8 @@
           }
         },
         {
-          "rank": 46,
-          "rankChange": 0,
+          "rank": 47,
+          "rankChange": -1,
           "name": "Docker Sandboxes",
           "score": 0,
           "confidence": "low",
@@ -1604,7 +1619,7 @@
     },
     "mobile": {
       "label": "모바일",
-      "updatedAt": "2026-08-18T15:21:12.977Z",
+      "updatedAt": "2026-08-19T15:20:45.306Z",
       "rankings": [
         {
           "rank": 1,
@@ -1613,12 +1628,12 @@
           "score": 82,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 178463,
+            "githubStars": 178495,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 178658
+            "soQuestions": 178657
           }
         },
         {
@@ -1628,12 +1643,12 @@
           "score": 74,
           "confidence": "high",
           "metrics": {
-            "githubStars": 126356,
-            "npmDownloads": 10403351,
+            "githubStars": 126364,
+            "npmDownloads": 10497592,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 136959
+            "soQuestions": 136956
           }
         },
         {
@@ -1643,27 +1658,27 @@
           "score": 62,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 70256,
+            "githubStars": 70258,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 336131
+            "soQuestions": 336132
           }
         },
         {
           "rank": 4,
           "rankChange": 0,
           "name": "Expo",
-          "score": 36,
+          "score": 37,
           "confidence": "high",
           "metrics": {
-            "githubStars": 51670,
-            "npmDownloads": 6997332,
+            "githubStars": 51701,
+            "npmDownloads": 7134384,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 16725
+            "soQuestions": 16723
           }
         },
         {
@@ -1673,7 +1688,7 @@
           "score": 30,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 53354,
+            "githubStars": 53352,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -1685,15 +1700,15 @@
           "rank": 6,
           "rankChange": 0,
           "name": "Capacitor",
-          "score": 13,
+          "score": 15,
           "confidence": "high",
           "metrics": {
-            "githubStars": 16341,
-            "npmDownloads": 2705986,
+            "githubStars": 16348,
+            "npmDownloads": 3319899,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 2302
+            "soQuestions": 2301
           }
         },
         {
@@ -1703,7 +1718,7 @@
           "score": 4,
           "confidence": "low",
           "metrics": {
-            "githubStars": 7510,
+            "githubStars": 7515,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -1760,7 +1775,7 @@
     },
     "ai": {
       "label": "AI / ML",
-      "updatedAt": "2026-08-18T15:21:51.842Z",
+      "updatedAt": "2026-08-19T15:21:23.789Z",
       "rankings": [
         {
           "rank": 1,
@@ -1769,10 +1784,10 @@
           "score": 99,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 195080,
+            "githubStars": 195086,
             "npmDownloads": null,
             "pypiDownloads": null,
-            "cargoDownloads": 58,
+            "cargoDownloads": 56,
             "dockerPulls": null,
             "soQuestions": null
           }
@@ -1781,10 +1796,10 @@
           "rank": 2,
           "rankChange": 0,
           "name": "DeepSeek Harness",
-          "score": 81,
+          "score": 84,
           "confidence": "low",
           "metrics": {
-            "githubStars": 158903,
+            "githubStars": 165884,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -1796,12 +1811,12 @@
           "rank": 3,
           "rankChange": 0,
           "name": "TensorFlow",
-          "score": 66,
+          "score": 67,
           "confidence": "high",
           "metrics": {
-            "githubStars": 197038,
+            "githubStars": 197064,
             "npmDownloads": null,
-            "pypiDownloads": 4033006,
+            "pypiDownloads": 4021684,
             "cargoDownloads": null,
             "dockerPulls": null,
             "soQuestions": 82097
@@ -1809,28 +1824,43 @@
         },
         {
           "rank": 4,
-          "rankChange": 4,
-          "name": "Ollama",
-          "score": 56,
+          "rankChange": 5,
+          "name": "OpenCV",
+          "score": 63,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 178872,
+            "githubStars": 90501,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 261
+            "soQuestions": 72698
           }
         },
         {
           "rank": 5,
+          "rankChange": 2,
+          "name": "Transformers",
+          "score": 62,
+          "confidence": "high",
+          "metrics": {
+            "githubStars": 164257,
+            "npmDownloads": null,
+            "pypiDownloads": 46152092,
+            "cargoDownloads": null,
+            "dockerPulls": null,
+            "soQuestions": 3358
+          }
+        },
+        {
+          "rank": 6,
           "rankChange": -1,
           "name": "Vercel AI SDK",
           "score": 54,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 26271,
-            "npmDownloads": 18372863,
+            "githubStars": 26297,
+            "npmDownloads": 18291200,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -1838,43 +1868,13 @@
           }
         },
         {
-          "rank": 6,
-          "rankChange": -1,
-          "name": "LiteLLM",
-          "score": 47,
-          "confidence": "high",
-          "metrics": {
-            "githubStars": 56652,
-            "npmDownloads": null,
-            "pypiDownloads": 179857841,
-            "cargoDownloads": null,
-            "dockerPulls": null,
-            "soQuestions": 10
-          }
-        },
-        {
           "rank": 7,
-          "rankChange": -1,
-          "name": "Transformers",
-          "score": 43,
-          "confidence": "high",
-          "metrics": {
-            "githubStars": 164217,
-            "npmDownloads": null,
-            "pypiDownloads": 46544659,
-            "cargoDownloads": null,
-            "dockerPulls": null,
-            "soQuestions": 3358
-          }
-        },
-        {
-          "rank": 8,
-          "rankChange": 2,
+          "rankChange": 1,
           "name": "PyTorch",
           "score": 43,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 102457,
+            "githubStars": 102481,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -1883,30 +1883,45 @@
           }
         },
         {
-          "rank": 9,
-          "rankChange": -2,
-          "name": "OpenCV",
-          "score": 43,
+          "rank": 8,
+          "rankChange": 16,
+          "name": "Qdrant",
+          "score": 42,
           "confidence": "high",
           "metrics": {
-            "githubStars": 90487,
+            "githubStars": 34062,
             "npmDownloads": null,
-            "pypiDownloads": 12435865,
+            "pypiDownloads": null,
+            "cargoDownloads": null,
+            "dockerPulls": 41837847,
+            "soQuestions": 60
+          }
+        },
+        {
+          "rank": 9,
+          "rankChange": -5,
+          "name": "Ollama",
+          "score": 40,
+          "confidence": "high",
+          "metrics": {
+            "githubStars": 178964,
+            "npmDownloads": null,
+            "pypiDownloads": 5406538,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 72699
+            "soQuestions": 261
           }
         },
         {
           "rank": 10,
-          "rankChange": -1,
+          "rankChange": 0,
           "name": "LangChain",
           "score": 34,
           "confidence": "high",
           "metrics": {
-            "githubStars": 144479,
-            "npmDownloads": 1978109,
-            "pypiDownloads": 59077250,
+            "githubStars": 144570,
+            "npmDownloads": 2446732,
+            "pypiDownloads": 58731004,
             "cargoDownloads": null,
             "dockerPulls": null,
             "soQuestions": 1981
@@ -1914,12 +1929,12 @@
         },
         {
           "rank": 11,
-          "rankChange": 2,
+          "rankChange": 0,
           "name": "MemPalace",
           "score": 30,
           "confidence": "low",
           "metrics": {
-            "githubStars": 58435,
+            "githubStars": 58461,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -1929,12 +1944,27 @@
         },
         {
           "rank": 12,
+          "rankChange": 1,
+          "name": "vLLM",
+          "score": 28,
+          "confidence": "medium",
+          "metrics": {
+            "githubStars": 89446,
+            "npmDownloads": null,
+            "pypiDownloads": null,
+            "cargoDownloads": null,
+            "dockerPulls": null,
+            "soQuestions": 32
+          }
+        },
+        {
+          "rank": 13,
           "rankChange": -1,
           "name": "CopilotKit",
           "score": 19,
           "confidence": "low",
           "metrics": {
-            "githubStars": 36824,
+            "githubStars": 36847,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -1943,45 +1973,30 @@
           }
         },
         {
-          "rank": 13,
-          "rankChange": -1,
-          "name": "vLLM",
-          "score": 18,
-          "confidence": "high",
-          "metrics": {
-            "githubStars": 89360,
-            "npmDownloads": null,
-            "pypiDownloads": 1160825,
-            "cargoDownloads": null,
-            "dockerPulls": null,
-            "soQuestions": 32
-          }
-        },
-        {
           "rank": 14,
-          "rankChange": 0,
-          "name": "LlamaIndex",
-          "score": 14,
+          "rankChange": -8,
+          "name": "LiteLLM",
+          "score": 18,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 51728,
-            "npmDownloads": 90924,
-            "pypiDownloads": 1835201,
+            "githubStars": 56753,
+            "npmDownloads": null,
+            "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": null
+            "soQuestions": 10
           }
         },
         {
           "rank": 15,
           "rankChange": 0,
           "name": "CrewAI",
-          "score": 13,
-          "confidence": "high",
+          "score": 18,
+          "confidence": "medium",
           "metrics": {
-            "githubStars": 57255,
+            "githubStars": 57316,
             "npmDownloads": null,
-            "pypiDownloads": 9486839,
+            "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
             "soQuestions": 41
@@ -1989,28 +2004,13 @@
         },
         {
           "rank": 16,
-          "rankChange": 0,
-          "name": "LangGraph",
-          "score": 12,
-          "confidence": "high",
+          "rankChange": -2,
+          "name": "LlamaIndex",
+          "score": 14,
+          "confidence": "medium",
           "metrics": {
-            "githubStars": 39938,
-            "npmDownloads": 2238160,
-            "pypiDownloads": 17090874,
-            "cargoDownloads": null,
-            "dockerPulls": null,
-            "soQuestions": 144
-          }
-        },
-        {
-          "rank": 17,
-          "rankChange": 0,
-          "name": "Huashu Design",
-          "score": 12,
-          "confidence": "low",
-          "metrics": {
-            "githubStars": 23249,
-            "npmDownloads": null,
+            "githubStars": 51742,
+            "npmDownloads": 132515,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -2018,13 +2018,28 @@
           }
         },
         {
+          "rank": 17,
+          "rankChange": -1,
+          "name": "LangGraph",
+          "score": 13,
+          "confidence": "high",
+          "metrics": {
+            "githubStars": 40022,
+            "npmDownloads": 2736125,
+            "pypiDownloads": null,
+            "cargoDownloads": null,
+            "dockerPulls": null,
+            "soQuestions": 144
+          }
+        },
+        {
           "rank": 18,
-          "rankChange": 0,
-          "name": "Qwen",
-          "score": 11,
+          "rankChange": -1,
+          "name": "Huashu Design",
+          "score": 12,
           "confidence": "low",
           "metrics": {
-            "githubStars": 21606,
+            "githubStars": 23296,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2034,27 +2049,12 @@
         },
         {
           "rank": 19,
-          "rankChange": 4,
-          "name": "JAX",
-          "score": 11,
-          "confidence": "medium",
-          "metrics": {
-            "githubStars": 36174,
-            "npmDownloads": null,
-            "pypiDownloads": null,
-            "cargoDownloads": null,
-            "dockerPulls": null,
-            "soQuestions": 784
-          }
-        },
-        {
-          "rank": 20,
           "rankChange": -1,
-          "name": "ds4",
+          "name": "Qwen",
           "score": 11,
           "confidence": "low",
           "metrics": {
-            "githubStars": 21528,
+            "githubStars": 21609,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2063,7 +2063,37 @@
           }
         },
         {
+          "rank": 20,
+          "rankChange": -1,
+          "name": "JAX",
+          "score": 11,
+          "confidence": "medium",
+          "metrics": {
+            "githubStars": 36179,
+            "npmDownloads": null,
+            "pypiDownloads": null,
+            "cargoDownloads": null,
+            "dockerPulls": null,
+            "soQuestions": 784
+          }
+        },
+        {
           "rank": 21,
+          "rankChange": -1,
+          "name": "ds4",
+          "score": 11,
+          "confidence": "low",
+          "metrics": {
+            "githubStars": 21561,
+            "npmDownloads": null,
+            "pypiDownloads": null,
+            "cargoDownloads": null,
+            "dockerPulls": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 22,
           "rankChange": -1,
           "name": "MAI-Code-1",
           "score": 11,
@@ -2074,11 +2104,11 @@
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 8895
+            "soQuestions": 8884
           }
         },
         {
-          "rank": 22,
+          "rank": 23,
           "rankChange": -1,
           "name": "Strake",
           "score": 11,
@@ -2089,37 +2119,22 @@
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 8895
+            "soQuestions": 8884
           }
         },
         {
-          "rank": 23,
+          "rank": 24,
           "rankChange": -1,
           "name": "OpenClaude",
           "score": 9,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 30751,
-            "npmDownloads": 48,
+            "githubStars": 30766,
+            "npmDownloads": 65,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
             "soQuestions": null
-          }
-        },
-        {
-          "rank": 24,
-          "rankChange": 0,
-          "name": "Qdrant",
-          "score": 8,
-          "confidence": "high",
-          "metrics": {
-            "githubStars": 34045,
-            "npmDownloads": null,
-            "pypiDownloads": 4364654,
-            "cargoDownloads": null,
-            "dockerPulls": 41701790,
-            "soQuestions": 60
           }
         },
         {
@@ -2139,12 +2154,12 @@
         },
         {
           "rank": 26,
-          "rankChange": 0,
-          "name": "GLM-5.1",
+          "rankChange": 4,
+          "name": "OpenCode",
           "score": 7,
           "confidence": "low",
           "metrics": {
-            "githubStars": 13660,
+            "githubStars": 13675,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2154,12 +2169,12 @@
         },
         {
           "rank": 27,
-          "rankChange": 0,
-          "name": "MiMo-Code",
-          "score": 6,
+          "rankChange": -1,
+          "name": "GLM-5.1",
+          "score": 7,
           "confidence": "low",
           "metrics": {
-            "githubStars": 12784,
+            "githubStars": 13661,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2169,12 +2184,12 @@
         },
         {
           "rank": 28,
-          "rankChange": 0,
-          "name": "img2threejs",
+          "rankChange": -1,
+          "name": "MiMo-Code",
           "score": 6,
           "confidence": "low",
           "metrics": {
-            "githubStars": 12130,
+            "githubStars": 12799,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2184,7 +2199,22 @@
         },
         {
           "rank": 29,
-          "rankChange": 0,
+          "rankChange": -1,
+          "name": "img2threejs",
+          "score": 6,
+          "confidence": "low",
+          "metrics": {
+            "githubStars": 12232,
+            "npmDownloads": null,
+            "pypiDownloads": null,
+            "cargoDownloads": null,
+            "dockerPulls": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 30,
+          "rankChange": -1,
           "name": "Kitten TTS",
           "score": 5,
           "confidence": "low",
@@ -2198,28 +2228,13 @@
           }
         },
         {
-          "rank": 30,
-          "rankChange": 0,
-          "name": "OpenCode",
-          "score": 4,
-          "confidence": "medium",
-          "metrics": {
-            "githubStars": 13670,
-            "npmDownloads": null,
-            "pypiDownloads": 31349,
-            "cargoDownloads": null,
-            "dockerPulls": null,
-            "soQuestions": null
-          }
-        },
-        {
           "rank": 31,
-          "rankChange": 0,
-          "name": "OpenSpace",
-          "score": 4,
+          "rankChange": 7,
+          "name": "Omnigent",
+          "score": 5,
           "confidence": "low",
           "metrics": {
-            "githubStars": 7423,
+            "githubStars": 9046,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2229,14 +2244,14 @@
         },
         {
           "rank": 32,
-          "rankChange": 0,
-          "name": "OpenHarness",
+          "rankChange": -1,
+          "name": "OpenSpace",
           "score": 4,
-          "confidence": "medium",
+          "confidence": "low",
           "metrics": {
-            "githubStars": 15413,
+            "githubStars": 7427,
             "npmDownloads": null,
-            "pypiDownloads": 23,
+            "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
             "soQuestions": null
@@ -2244,7 +2259,22 @@
         },
         {
           "rank": 33,
-          "rankChange": 0,
+          "rankChange": -1,
+          "name": "OpenHarness",
+          "score": 4,
+          "confidence": "medium",
+          "metrics": {
+            "githubStars": 15429,
+            "npmDownloads": null,
+            "pypiDownloads": 32,
+            "cargoDownloads": null,
+            "dockerPulls": null,
+            "soQuestions": null
+          }
+        },
+        {
+          "rank": 34,
+          "rankChange": -1,
           "name": "Turtle",
           "score": 4,
           "confidence": "low",
@@ -2258,13 +2288,13 @@
           }
         },
         {
-          "rank": 34,
-          "rankChange": 0,
+          "rank": 35,
+          "rankChange": -1,
           "name": "DeepSpec",
           "score": 4,
           "confidence": "low",
           "metrics": {
-            "githubStars": 6993,
+            "githubStars": 7005,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2273,8 +2303,8 @@
           }
         },
         {
-          "rank": 35,
-          "rankChange": 0,
+          "rank": 36,
+          "rankChange": -1,
           "name": "GigaToken",
           "score": 4,
           "confidence": "low",
@@ -2288,14 +2318,14 @@
           }
         },
         {
-          "rank": 36,
-          "rankChange": 0,
+          "rank": 37,
+          "rankChange": -1,
           "name": "qm",
           "score": 4,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 13861,
-            "npmDownloads": 582,
+            "githubStars": 13932,
+            "npmDownloads": 952,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -2303,33 +2333,18 @@
           }
         },
         {
-          "rank": 37,
-          "rankChange": 0,
+          "rank": 38,
+          "rankChange": -1,
           "name": "OmniVoice",
           "score": 3,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 9220,
+            "githubStars": 9238,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
             "soQuestions": 454
-          }
-        },
-        {
-          "rank": 38,
-          "rankChange": 0,
-          "name": "Omnigent",
-          "score": 3,
-          "confidence": "medium",
-          "metrics": {
-            "githubStars": 9008,
-            "npmDownloads": null,
-            "pypiDownloads": 36595,
-            "cargoDownloads": null,
-            "dockerPulls": null,
-            "soQuestions": null
           }
         },
         {
@@ -2339,7 +2354,7 @@
           "score": 3,
           "confidence": "low",
           "metrics": {
-            "githubStars": 5993,
+            "githubStars": 6071,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2354,8 +2369,8 @@
           "score": 2,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 6786,
-            "npmDownloads": 35,
+            "githubStars": 6793,
+            "npmDownloads": 1,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -2369,7 +2384,7 @@
           "score": 2,
           "confidence": "low",
           "metrics": {
-            "githubStars": 4562,
+            "githubStars": 4563,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2384,7 +2399,7 @@
           "score": 2,
           "confidence": "low",
           "metrics": {
-            "githubStars": 4690,
+            "githubStars": 4710,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2399,7 +2414,7 @@
           "score": 2,
           "confidence": "low",
           "metrics": {
-            "githubStars": 4068,
+            "githubStars": 4087,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2414,7 +2429,7 @@
           "score": 2,
           "confidence": "low",
           "metrics": {
-            "githubStars": 3216,
+            "githubStars": 3236,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2457,14 +2472,14 @@
           "rankChange": 0,
           "name": "Gemini",
           "score": 1,
-          "confidence": "high",
+          "confidence": "medium",
           "metrics": {
             "githubStars": 2326,
             "npmDownloads": null,
-            "pypiDownloads": 4314863,
+            "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 5
+            "soQuestions": 4
           }
         },
         {
@@ -2474,7 +2489,7 @@
           "score": 1,
           "confidence": "low",
           "metrics": {
-            "githubStars": 1733,
+            "githubStars": 1734,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2504,7 +2519,7 @@
           "score": 1,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 3504,
+            "githubStars": 3531,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2549,7 +2564,7 @@
           "score": 1,
           "confidence": "low",
           "metrics": {
-            "githubStars": 2185,
+            "githubStars": 2202,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2564,7 +2579,7 @@
           "score": 1,
           "confidence": "low",
           "metrics": {
-            "githubStars": 1181,
+            "githubStars": 1190,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2579,7 +2594,7 @@
           "score": 1,
           "confidence": "low",
           "metrics": {
-            "githubStars": 2192,
+            "githubStars": 2244,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -2607,11 +2622,11 @@
           "rankChange": 0,
           "name": "MLX",
           "score": 0,
-          "confidence": "medium",
+          "confidence": "low",
           "metrics": {
             "githubStars": null,
             "npmDownloads": null,
-            "pypiDownloads": 369133,
+            "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
             "soQuestions": 9
@@ -2629,7 +2644,7 @@
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 19
+            "soQuestions": 18
           }
         },
         {
@@ -3146,7 +3161,7 @@
     },
     "database": {
       "label": "데이터베이스",
-      "updatedAt": "2026-08-18T15:22:01.097Z",
+      "updatedAt": "2026-08-19T15:21:33.020Z",
       "rankings": [
         {
           "rank": 1,
@@ -3155,12 +3170,12 @@
           "score": 75,
           "confidence": "high",
           "metrics": {
-            "githubStars": 108127,
-            "npmDownloads": 21127352,
+            "githubStars": 108161,
+            "npmDownloads": 21216038,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 2145
+            "soQuestions": 2146
           }
         },
         {
@@ -3170,38 +3185,23 @@
           "score": 64,
           "confidence": "high",
           "metrics": {
-            "githubStars": 76029,
+            "githubStars": 76041,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
-            "dockerPulls": 11135310759,
+            "dockerPulls": 11141031432,
             "soQuestions": 25415
           }
         },
         {
           "rank": 3,
-          "rankChange": 0,
-          "name": "PostgreSQL",
-          "score": 50,
-          "confidence": "high",
-          "metrics": {
-            "githubStars": 21821,
-            "npmDownloads": null,
-            "pypiDownloads": null,
-            "cargoDownloads": null,
-            "dockerPulls": 11243389179,
-            "soQuestions": 178811
-          }
-        },
-        {
-          "rank": 4,
-          "rankChange": 0,
+          "rankChange": 1,
           "name": "DrizzleORM",
-          "score": 47,
+          "score": 54,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 35506,
-            "npmDownloads": 13590627,
+            "githubStars": 35519,
+            "npmDownloads": 16864574,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -3209,29 +3209,59 @@
           }
         },
         {
-          "rank": 5,
-          "rankChange": 0,
-          "name": "MySQL",
-          "score": 45,
+          "rank": 4,
+          "rankChange": -1,
+          "name": "PostgreSQL",
+          "score": 50,
           "confidence": "high",
           "metrics": {
-            "githubStars": 12382,
+            "githubStars": 21839,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
-            "dockerPulls": 5086235003,
-            "soQuestions": 657207
+            "dockerPulls": 11253464828,
+            "soQuestions": 178812
+          }
+        },
+        {
+          "rank": 5,
+          "rankChange": 3,
+          "name": "DuckDB",
+          "score": 50,
+          "confidence": "high",
+          "metrics": {
+            "githubStars": 40435,
+            "npmDownloads": null,
+            "pypiDownloads": 15156347,
+            "cargoDownloads": null,
+            "dockerPulls": null,
+            "soQuestions": 503
           }
         },
         {
           "rank": 6,
-          "rankChange": 0,
+          "rankChange": -1,
+          "name": "MySQL",
+          "score": 45,
+          "confidence": "high",
+          "metrics": {
+            "githubStars": 12383,
+            "npmDownloads": null,
+            "pypiDownloads": null,
+            "cargoDownloads": null,
+            "dockerPulls": 5088179314,
+            "soQuestions": 657207
+          }
+        },
+        {
+          "rank": 7,
+          "rankChange": -1,
           "name": "Prisma",
           "score": 41,
           "confidence": "high",
           "metrics": {
-            "githubStars": 47566,
-            "npmDownloads": 13862685,
+            "githubStars": 47571,
+            "npmDownloads": 13779753,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -3239,63 +3269,48 @@
           }
         },
         {
-          "rank": 7,
-          "rankChange": 0,
-          "name": "Weaviate",
-          "score": 41,
-          "confidence": "high",
-          "metrics": {
-            "githubStars": 16740,
-            "npmDownloads": null,
-            "pypiDownloads": 24453361,
-            "cargoDownloads": null,
-            "dockerPulls": 20829067,
-            "soQuestions": 160
-          }
-        },
-        {
           "rank": 8,
-          "rankChange": 0,
-          "name": "DuckDB",
-          "score": 37,
-          "confidence": "high",
-          "metrics": {
-            "githubStars": 40380,
-            "npmDownloads": null,
-            "pypiDownloads": 15045317,
-            "cargoDownloads": null,
-            "dockerPulls": null,
-            "soQuestions": 504
-          }
-        },
-        {
-          "rank": 9,
-          "rankChange": 0,
+          "rankChange": 1,
           "name": "MongoDB",
           "score": 32,
           "confidence": "high",
           "metrics": {
-            "githubStars": 28496,
+            "githubStars": 28501,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
-            "dockerPulls": 4830844117,
+            "dockerPulls": 4831917953,
             "soQuestions": 175187
           }
         },
         {
-          "rank": 10,
-          "rankChange": 0,
+          "rank": 9,
+          "rankChange": 1,
           "name": "Elasticsearch",
           "score": 31,
           "confidence": "high",
           "metrics": {
-            "githubStars": 77822,
+            "githubStars": 77843,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
-            "dockerPulls": 26145056,
+            "dockerPulls": 26175712,
             "soQuestions": 58165
+          }
+        },
+        {
+          "rank": 10,
+          "rankChange": 2,
+          "name": "Milvus",
+          "score": 20,
+          "confidence": "high",
+          "metrics": {
+            "githubStars": 45698,
+            "npmDownloads": null,
+            "pypiDownloads": 1401250,
+            "cargoDownloads": null,
+            "dockerPulls": 78230173,
+            "soQuestions": 211
           }
         },
         {
@@ -3305,32 +3320,17 @@
           "score": 19,
           "confidence": "high",
           "metrics": {
-            "githubStars": 49316,
+            "githubStars": 49338,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
-            "dockerPulls": 279146977,
+            "dockerPulls": 279975818,
             "soQuestions": 2216
           }
         },
         {
           "rank": 12,
-          "rankChange": 0,
-          "name": "Milvus",
-          "score": 19,
-          "confidence": "high",
-          "metrics": {
-            "githubStars": 45679,
-            "npmDownloads": null,
-            "pypiDownloads": 1385856,
-            "cargoDownloads": null,
-            "dockerPulls": 78209478,
-            "soQuestions": 211
-          }
-        },
-        {
-          "rank": 13,
-          "rankChange": 0,
+          "rankChange": 1,
           "name": "SQLite",
           "score": 14,
           "confidence": "low",
@@ -3344,33 +3344,48 @@
           }
         },
         {
-          "rank": 14,
-          "rankChange": 0,
+          "rank": 13,
+          "rankChange": 1,
           "name": "pgmicro",
           "score": 11,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 1199,
+            "githubStars": 1200,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 178811
+            "soQuestions": 178812
           }
         },
         {
-          "rank": 15,
-          "rankChange": 0,
+          "rank": 14,
+          "rankChange": 1,
           "name": "Neo4j",
           "score": 8,
           "confidence": "high",
           "metrics": {
-            "githubStars": 17084,
+            "githubStars": 17088,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
-            "dockerPulls": 320624348,
+            "dockerPulls": 320747962,
             "soQuestions": 23007
+          }
+        },
+        {
+          "rank": 15,
+          "rankChange": -8,
+          "name": "Weaviate",
+          "score": 6,
+          "confidence": "high",
+          "metrics": {
+            "githubStars": 16740,
+            "npmDownloads": null,
+            "pypiDownloads": null,
+            "cargoDownloads": null,
+            "dockerPulls": 20859889,
+            "soQuestions": 160
           }
         },
         {
@@ -3381,7 +3396,7 @@
           "confidence": "medium",
           "metrics": {
             "githubStars": null,
-            "npmDownloads": 1787628,
+            "npmDownloads": 1747603,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -3395,11 +3410,11 @@
           "score": 5,
           "confidence": "high",
           "metrics": {
-            "githubStars": 10071,
+            "githubStars": 10076,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
-            "dockerPulls": 264607848,
+            "dockerPulls": 264770494,
             "soQuestions": 20870
           }
         },
@@ -3412,7 +3427,7 @@
           "metrics": {
             "githubStars": null,
             "npmDownloads": null,
-            "pypiDownloads": 257108,
+            "pypiDownloads": 262498,
             "cargoDownloads": null,
             "dockerPulls": null,
             "soQuestions": 117
@@ -3467,7 +3482,7 @@
     },
     "testing": {
       "label": "테스팅",
-      "updatedAt": "2026-08-18T15:22:05.187Z",
+      "updatedAt": "2026-08-19T15:21:37.453Z",
       "rankings": [
         {
           "rank": 1,
@@ -3476,8 +3491,8 @@
           "score": 76,
           "confidence": "high",
           "metrics": {
-            "githubStars": 94684,
-            "npmDownloads": 70827784,
+            "githubStars": 94742,
+            "npmDownloads": 70082199,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -3491,8 +3506,8 @@
           "score": 62,
           "confidence": "high",
           "metrics": {
-            "githubStars": 45468,
-            "npmDownloads": 39501475,
+            "githubStars": 45469,
+            "npmDownloads": 38717951,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -3506,11 +3521,11 @@
           "score": 49,
           "confidence": "high",
           "metrics": {
-            "githubStars": 31276,
+            "githubStars": 31282,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
-            "dockerPulls": 28866350,
+            "dockerPulls": 28927798,
             "soQuestions": 402
           }
         },
@@ -3521,8 +3536,8 @@
           "score": 48,
           "confidence": "high",
           "metrics": {
-            "githubStars": 90868,
-            "npmDownloads": 16401980,
+            "githubStars": 90876,
+            "npmDownloads": 16288083,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -3536,8 +3551,8 @@
           "score": 43,
           "confidence": "high",
           "metrics": {
-            "githubStars": 16969,
-            "npmDownloads": 77612487,
+            "githubStars": 16975,
+            "npmDownloads": 77239373,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -3552,7 +3567,7 @@
           "confidence": "medium",
           "metrics": {
             "githubStars": 19640,
-            "npmDownloads": 46158999,
+            "npmDownloads": 45698911,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -3566,8 +3581,8 @@
           "score": 35,
           "confidence": "high",
           "metrics": {
-            "githubStars": 50980,
-            "npmDownloads": 6430842,
+            "githubStars": 50981,
+            "npmDownloads": 6326409,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -3578,11 +3593,11 @@
           "rank": 8,
           "rankChange": 0,
           "name": "MSW",
-          "score": 14,
+          "score": 16,
           "confidence": "high",
           "metrics": {
-            "githubStars": 18146,
-            "npmDownloads": 13497095,
+            "githubStars": 18149,
+            "npmDownloads": 16795681,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -3593,7 +3608,7 @@
     },
     "language": {
       "label": "프로그래밍 언어",
-      "updatedAt": "2026-08-18T15:22:12.907Z",
+      "updatedAt": "2026-08-19T15:21:45.299Z",
       "rankings": [
         {
           "rank": 1,
@@ -3602,12 +3617,12 @@
           "score": 72,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 74398,
+            "githubStars": 74407,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 2204995
+            "soQuestions": 2204997
           }
         },
         {
@@ -3617,12 +3632,12 @@
           "score": 63,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 135886,
+            "githubStars": 135905,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 74462
+            "soQuestions": 74465
           }
         },
         {
@@ -3632,12 +3647,12 @@
           "score": 53,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 115588,
+            "githubStars": 115609,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 43962
+            "soQuestions": 43966
           }
         },
         {
@@ -3647,8 +3662,8 @@
           "score": 48,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 3589,
-            "npmDownloads": 7812,
+            "githubStars": 3770,
+            "npmDownloads": 6944,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
@@ -3662,12 +3677,12 @@
           "score": 38,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 70256,
+            "githubStars": 70258,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 336131
+            "soQuestions": 336132
           }
         },
         {
@@ -3677,12 +3692,12 @@
           "score": 34,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 12682,
+            "githubStars": 12686,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 1621889
+            "soQuestions": 1621881
           }
         },
         {
@@ -3692,7 +3707,7 @@
           "score": 26,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 53354,
+            "githubStars": 53352,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -3707,7 +3722,7 @@
           "score": 20,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 43316,
+            "githubStars": 43317,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -3722,7 +3737,7 @@
           "score": 12,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 26599,
+            "githubStars": 26600,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -3742,7 +3757,7 @@
             "pypiDownloads": null,
             "cargoDownloads": null,
             "dockerPulls": null,
-            "soQuestions": 234163
+            "soQuestions": 234161
           }
         },
         {
@@ -3767,7 +3782,7 @@
           "score": 6,
           "confidence": "medium",
           "metrics": {
-            "githubStars": 12072,
+            "githubStars": 12075,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -3782,7 +3797,7 @@
           "score": 4,
           "confidence": "low",
           "metrics": {
-            "githubStars": 5313,
+            "githubStars": 5324,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
@@ -3797,7 +3812,7 @@
           "score": 4,
           "confidence": "low",
           "metrics": {
-            "githubStars": 5313,
+            "githubStars": 5324,
             "npmDownloads": null,
             "pypiDownloads": null,
             "cargoDownloads": null,
