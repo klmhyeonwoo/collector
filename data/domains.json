@@ -540,6 +540,13 @@
       {
         "name": "ZSvirt",
         "github": "ZSvirt/zsvirt"
+      },
+      {
+        "name": "Renovate",
+        "github": "renovatebot/renovate",
+        "npm": "renovate",
+        "dockerhub": "renovate/renovate-runner",
+        "so": "renovate-bot"
       }
     ]
   },
@@ -993,6 +1000,11 @@
       },
       {
         "name": "H3-metal"
+      },
+      {
+        "name": "Sprix Sage Router",
+        "github": "wang2122/sprix-sage-router",
+        "pypi": "sprix-sage-router"
       }
     ]
   },
