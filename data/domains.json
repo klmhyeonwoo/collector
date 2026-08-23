@@ -162,6 +162,10 @@
         "name": "Anti-Slop (Oxlint rules)",
         "github": "dmmulroy/anti-slop",
         "npm": "anti-slop"
+      },
+      {
+        "name": "Invoker Commands API",
+        "so": "html"
       }
     ]
   },
@@ -547,6 +551,10 @@
         "npm": "renovate",
         "dockerhub": "renovate/renovate-runner",
         "so": "renovate-bot"
+      },
+      {
+        "name": "Origin",
+        "so": "github"
       }
     ]
   },
@@ -1123,6 +1131,10 @@
       },
       {
         "name": "DeltaDB"
+      },
+      {
+        "name": "DuckDB v2.0",
+        "so": "duckdb"
       }
     ]
   },
@@ -1256,6 +1268,15 @@
       {
         "name": "Mojo",
         "so": "mojo-lang"
+      },
+      {
+        "name": "Go 1.27",
+        "so": "go"
+      },
+      {
+        "name": "Arrayref",
+        "cargo": "arrayref",
+        "so": "rust"
       }
     ]
   }
