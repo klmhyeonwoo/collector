@@ -166,6 +166,10 @@
       {
         "name": "Invoker Commands API",
         "so": "html"
+      },
+      {
+        "name": "ThreeUI",
+        "github": "MengTo/threeui"
       }
     ]
   },
@@ -555,6 +559,15 @@
       {
         "name": "Origin",
         "so": "github"
+      },
+      {
+        "name": "deploy-vercel",
+        "github": "vvxw/deploy-vercel",
+        "npm": "deploy-vercel"
+      },
+      {
+        "name": "x64dbg-MCP Server",
+        "github": "duty1g/x64dbg-mcp-server"
       }
     ]
   },
