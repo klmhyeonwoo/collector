@@ -170,6 +170,23 @@
       {
         "name": "ThreeUI",
         "github": "MengTo/threeui"
+      },
+      {
+        "name": "cn",
+        "github": "shadcn-ui/cn",
+        "npm": "cn",
+        "so": "tailwind-css"
+      },
+      {
+        "name": "DSA View",
+        "github": "dsa-view/dsa-view",
+        "so": "data-structures"
+      },
+      {
+        "name": "Tauri",
+        "github": "tauri-apps/tauri",
+        "cargo": "tauri",
+        "so": "tauri"
       }
     ]
   },
@@ -1042,6 +1059,29 @@
       },
       {
         "name": "OpenRouter"
+      },
+      {
+        "name": "GPT-6 Astra",
+        "so": "gpt"
+      },
+      {
+        "name": "Claude Fable 5.1",
+        "so": "claude"
+      },
+      {
+        "name": "Claude Mythos 5.1",
+        "so": "claude"
+      },
+      {
+        "name": "Gemini 3.8 Flash",
+        "so": "gemini"
+      },
+      {
+        "name": "Polars",
+        "github": "pola-rs/polars",
+        "pypi": "polars",
+        "cargo": "polars",
+        "so": "polars"
       }
     ]
   },
