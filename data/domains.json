@@ -1082,6 +1082,14 @@
         "pypi": "polars",
         "cargo": "polars",
         "so": "polars"
+      },
+      {
+        "name": "Qwen 3.8 27B",
+        "so": "qwen"
+      },
+      {
+        "name": "Google Veo",
+        "so": "google-veo"
       }
     ]
   },
