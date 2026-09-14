@@ -336,6 +336,11 @@
       {
         "name": "FFmpeg",
         "so": "ffmpeg"
+      },
+      {
+        "name": "AngleSharp",
+        "github": "AngleSharp/AngleSharp",
+        "so": "anglesharp"
       }
     ]
   },
