@@ -1103,6 +1103,20 @@
       {
         "name": "Edge0",
         "github": "Edge0-AI/Edge0"
+      },
+      {
+        "name": "SemIf",
+        "github": "TheoLeeCJ/SemIf",
+        "pypi": "semif",
+        "so": "semif"
+      },
+      {
+        "name": "Jev",
+        "so": "jev-ai"
+      },
+      {
+        "name": "OpenJev",
+        "so": "openjev"
       }
     ]
   },
@@ -1375,6 +1389,10 @@
       {
         "name": "Nvidia Native GPU for Rust",
         "so": "rust-gpu"
+      },
+      {
+        "name": "Bend",
+        "so": "bend-lang"
       }
     ]
   }
