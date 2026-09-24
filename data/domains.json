@@ -597,6 +597,10 @@
       {
         "name": "M4 Mac Mini Linux GPU Driver",
         "so": "linux-kernel-driver"
+      },
+      {
+        "name": "apk-reverse",
+        "github": "newliver666/apk-reverse"
       }
     ]
   },
@@ -1134,6 +1138,14 @@
         "name": "Kev",
         "github": "jaredpalmer/kev",
         "pypi": "kev"
+      },
+      {
+        "name": "ZCode",
+        "github": "zai-org/ZCode"
+      },
+      {
+        "name": "unreal-agent",
+        "github": "unreallabsai/unreal-agent"
       }
     ]
   },
