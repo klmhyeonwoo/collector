@@ -341,6 +341,10 @@
         "name": "AngleSharp",
         "github": "AngleSharp/AngleSharp",
         "so": "anglesharp"
+      },
+      {
+        "name": "Polly",
+        "so": "polly-dotnet"
       }
     ]
   },
@@ -601,6 +605,10 @@
       {
         "name": "apk-reverse",
         "github": "newliver666/apk-reverse"
+      },
+      {
+        "name": "NixOS",
+        "so": "nixos"
       }
     ]
   },
@@ -1146,6 +1154,14 @@
       {
         "name": "unreal-agent",
         "github": "unreallabsai/unreal-agent"
+      },
+      {
+        "name": "CLM",
+        "github": "Contrastive-LM/CLM"
+      },
+      {
+        "name": "DeepOpen",
+        "github": "deepopen-com/deepopen"
       }
     ]
   },
