@@ -187,6 +187,12 @@
         "github": "tauri-apps/tauri",
         "cargo": "tauri",
         "so": "tauri"
+      },
+      {
+        "name": "Partytown",
+        "github": "BuilderIO/partytown",
+        "npm": "@builder.io/partytown",
+        "so": "partytown"
       }
     ]
   },
@@ -1447,6 +1453,10 @@
       {
         "name": "shared_map",
         "so": "dart"
+      },
+      {
+        "name": "Reladraw",
+        "github": "reladraw/reladraw"
       }
     ]
   }
