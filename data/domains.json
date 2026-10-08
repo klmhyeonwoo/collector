@@ -367,6 +367,13 @@
       {
         "name": "REDox",
         "github": "CAPCOM-TD-OSS/REDox"
+      },
+      {
+        "name": "Polars 2.0",
+        "github": "pola-rs/polars",
+        "pypi": "polars",
+        "cargo": "polars",
+        "so": "polars"
       }
     ]
   },
@@ -1254,6 +1261,24 @@
         "name": "TabPFN",
         "github": "automl/TabPFN",
         "pypi": "tabpfn"
+      },
+      {
+        "name": "Mistral Large 4",
+        "so": "mistral"
+      },
+      {
+        "name": "Claude Haiku 5.5",
+        "so": "claude-ai"
+      },
+      {
+        "name": "GPT-6",
+        "so": "gpt"
+      },
+      {
+        "name": "Beam"
+      },
+      {
+        "name": "EmbeddingGemma 2"
       }
     ]
   },
@@ -1547,6 +1572,10 @@
       {
         "name": "CalcKernel",
         "github": "luxine/CalcKernel"
+      },
+      {
+        "name": "VB6 IDE (Browser-native)",
+        "so": "vb6"
       }
     ]
   }
