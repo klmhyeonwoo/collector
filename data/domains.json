@@ -647,6 +647,10 @@
         "github": "n8n-io/n8n",
         "npm": "n8n",
         "dockerhub": "n8n"
+      },
+      {
+        "name": "NVIDIA macOS Metal Driver",
+        "github": "nullmoth/nvidia-macos-driver"
       }
     ]
   },
@@ -1282,6 +1286,11 @@
       },
       {
         "name": "Whistle"
+      },
+      {
+        "name": "Manimgx",
+        "github": "academa-labs/manimgx",
+        "so": "manim"
       }
     ]
   },
@@ -1579,6 +1588,11 @@
       {
         "name": "VB6 IDE (Browser-native)",
         "so": "vb6"
+      },
+      {
+        "name": "ts-rust",
+        "github": "pingdotgg/ts-rust",
+        "so": "typescript"
       }
     ]
   }
