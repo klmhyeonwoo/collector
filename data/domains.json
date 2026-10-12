@@ -1413,6 +1413,18 @@
       {
         "name": "DuckDB v2.0",
         "so": "duckdb"
+      },
+      {
+        "name": "Dragonfly",
+        "github": "dragonflydb/dragonfly",
+        "dockerhub": "dragonflydb/dragonfly",
+        "so": "dragonflydb"
+      },
+      {
+        "name": "etcd",
+        "github": "etcd-io/etcd",
+        "dockerhub": "bitnami/etcd",
+        "so": "etcd"
       }
     ]
   },
