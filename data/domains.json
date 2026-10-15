@@ -378,6 +378,11 @@
       {
         "name": "USD BRep",
         "github": "NVIDIA-Omniverse/usd-brep"
+      },
+      {
+        "name": "RustGIS",
+        "github": "opengeos/RustGIS",
+        "cargo": "rustgis"
       }
     ]
   },
@@ -1295,6 +1300,9 @@
         "name": "Manimgx",
         "github": "academa-labs/manimgx",
         "so": "manim"
+      },
+      {
+        "name": "llamadart"
       }
     ]
   },
