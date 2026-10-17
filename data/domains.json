@@ -201,6 +201,11 @@
       {
         "name": "SvelteKit 3",
         "so": "sveltekit"
+      },
+      {
+        "name": "Solid Glass",
+        "github": "deeplethe/solid-glass",
+        "npm": "solid-glass"
       }
     ]
   },
@@ -383,6 +388,10 @@
         "name": "RustGIS",
         "github": "opengeos/RustGIS",
         "cargo": "rustgis"
+      },
+      {
+        "name": "BRUTAL",
+        "github": "ahwootech/BRUTAL"
       }
     ]
   },
@@ -660,6 +669,10 @@
       {
         "name": "NVIDIA macOS Metal Driver",
         "github": "nullmoth/nvidia-macos-driver"
+      },
+      {
+        "name": "Git AI",
+        "github": "feder-cr/git-ai"
       }
     ]
   },
@@ -1303,6 +1316,11 @@
       },
       {
         "name": "llamadart"
+      },
+      {
+        "name": "Handwired",
+        "github": "chenglou/handwired",
+        "npm": "handwired"
       }
     ]
   },
