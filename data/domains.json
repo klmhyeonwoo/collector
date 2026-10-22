@@ -215,6 +215,10 @@
         "name": "Godot",
         "github": "godotengine/godot",
         "so": "godot-engine"
+      },
+      {
+        "name": "NanoUI",
+        "github": "justrach/nanoui"
       }
     ]
   },
@@ -1483,6 +1487,15 @@
         "github": "etcd-io/etcd",
         "dockerhub": "bitnami/etcd",
         "so": "etcd"
+      },
+      {
+        "name": "Reylo",
+        "github": "colinhacks/reylo"
+      },
+      {
+        "name": "KiviDB",
+        "github": "kividbio/kividb",
+        "cargo": "kividb"
       }
     ]
   },
@@ -1663,6 +1676,10 @@
         "name": "ts-rust",
         "github": "pingdotgg/ts-rust",
         "so": "typescript"
+      },
+      {
+        "name": "Rubix-lang",
+        "github": "tek-sys-hub/Rubix-lang"
       }
     ]
   }
