@@ -405,6 +405,11 @@
       {
         "name": "BRUTAL",
         "github": "ahwootech/BRUTAL"
+      },
+      {
+        "name": "Rails",
+        "github": "rails/rails",
+        "so": "ruby-on-rails"
       }
     ]
   },
@@ -1353,6 +1358,9 @@
       {
         "name": "Hy-Memory",
         "github": "Tencent-Hunyuan/Hy-Memory"
+      },
+      {
+        "name": "Tinker"
       }
     ]
   },
@@ -1680,6 +1688,18 @@
       {
         "name": "Rubix-lang",
         "github": "tek-sys-hub/Rubix-lang"
+      },
+      {
+        "name": "PHP",
+        "so": "php"
+      },
+      {
+        "name": "Ruby",
+        "so": "ruby"
+      },
+      {
+        "name": "C",
+        "so": "c"
       }
     ]
   }
