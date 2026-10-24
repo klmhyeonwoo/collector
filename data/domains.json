@@ -219,6 +219,10 @@
       {
         "name": "NanoUI",
         "github": "justrach/nanoui"
+      },
+      {
+        "name": "WebGPU",
+        "so": "webgpu"
       }
     ]
   },
@@ -410,6 +414,12 @@
         "name": "Rails",
         "github": "rails/rails",
         "so": "ruby-on-rails"
+      },
+      {
+        "name": "WordPress",
+        "github": "WordPress/WordPress",
+        "dockerhub": "wordpress",
+        "so": "wordpress"
       }
     ]
   },
@@ -696,6 +706,10 @@
         "name": "Net Merge",
         "github": "rohit267/net-merge",
         "so": "networking"
+      },
+      {
+        "name": "Linux",
+        "so": "linux-kernel"
       }
     ]
   },
@@ -1361,6 +1375,14 @@
       },
       {
         "name": "Tinker"
+      },
+      {
+        "name": "Timestral",
+        "so": "time-series-forecasting"
+      },
+      {
+        "name": "Claude Duet",
+        "so": "claude-ai"
       }
     ]
   },
@@ -1552,6 +1574,12 @@
         "github": "grafana/k6",
         "dockerhub": "grafana/k6",
         "so": "k6"
+      },
+      {
+        "name": "mitmproxy",
+        "github": "mitmproxy/mitmproxy",
+        "pypi": "mitmproxy",
+        "so": "mitmproxy"
       }
     ]
   },
@@ -1700,6 +1728,10 @@
       {
         "name": "C",
         "so": "c"
+      },
+      {
+        "name": "JavaScript",
+        "so": "javascript"
       }
     ]
   }
