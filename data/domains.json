@@ -710,6 +710,12 @@
       {
         "name": "Linux",
         "so": "linux-kernel"
+      },
+      {
+        "name": "Keycloak",
+        "github": "keycloak/keycloak",
+        "dockerhub": "quay.io/keycloak/keycloak",
+        "so": "keycloak"
       }
     ]
   },
