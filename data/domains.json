@@ -223,6 +223,10 @@
       {
         "name": "WebGPU",
         "so": "webgpu"
+      },
+      {
+        "name": "dimensional-drawing",
+        "github": "enesozturk/dimensional-drawing"
       }
     ]
   },
@@ -716,6 +720,11 @@
         "github": "keycloak/keycloak",
         "dockerhub": "quay.io/keycloak/keycloak",
         "so": "keycloak"
+      },
+      {
+        "name": "Ghostty",
+        "github": "Ghostty/Ghostty",
+        "so": "ghostty"
       }
     ]
   },
@@ -1389,6 +1398,19 @@
       {
         "name": "Claude Duet",
         "so": "claude-ai"
+      },
+      {
+        "name": "Genie"
+      },
+      {
+        "name": "Qwenputer"
+      },
+      {
+        "name": "Dessa"
+      },
+      {
+        "name": "Genkit",
+        "github": "firebase/genkit"
       }
     ]
   },
@@ -1741,6 +1763,9 @@
       },
       {
         "name": "Goose"
+      },
+      {
+        "name": "HEXAW"
       }
     ]
   }
