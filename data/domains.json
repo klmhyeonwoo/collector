@@ -231,6 +231,16 @@
       {
         "name": "pixelfx",
         "github": "patch-gg/pixelfx"
+      },
+      {
+        "name": "gp-grid",
+        "npm": "gp-grid",
+        "so": "data-grid"
+      },
+      {
+        "name": "Vite+",
+        "npm": "vite-plus",
+        "so": "vitejs"
       }
     ]
   },
@@ -810,6 +820,11 @@
       {
         "name": "Muse Gadget SDK",
         "github": "facebookincubator/muse-gadget-sdk"
+      },
+      {
+        "name": "NOIR",
+        "github": "Verlintas/NOIR",
+        "so": "android-security"
       }
     ]
   },
@@ -1790,6 +1805,11 @@
       },
       {
         "name": "HEXAW"
+      },
+      {
+        "name": "is-kit",
+        "npm": "is-kit",
+        "so": "typescript"
       }
     ]
   }
