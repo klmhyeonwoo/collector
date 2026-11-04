@@ -241,6 +241,12 @@
         "name": "Vite+",
         "npm": "vite-plus",
         "so": "vitejs"
+      },
+      {
+        "name": "Wasp",
+        "github": "wasp-lang/wasp",
+        "npm": "wasp",
+        "so": "wasp-lang"
       }
     ]
   },
@@ -759,6 +765,17 @@
       {
         "name": "Floorplan",
         "github": "haydenschmitty/floorplan"
+      },
+      {
+        "name": "Craft Anything",
+        "github": "storytold/craft-anything"
+      },
+      {
+        "name": "hop",
+        "github": "Arjun-Ingole/hop"
+      },
+      {
+        "name": "ChangelogBot"
       }
     ]
   },
@@ -1810,6 +1827,9 @@
         "name": "is-kit",
         "npm": "is-kit",
         "so": "typescript"
+      },
+      {
+        "name": "Necoz"
       }
     ]
   }
