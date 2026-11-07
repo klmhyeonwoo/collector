@@ -776,6 +776,10 @@
       },
       {
         "name": "ChangelogBot"
+      },
+      {
+        "name": "A2A CLI",
+        "so": "cli, rust"
       }
     ]
   },
@@ -1467,6 +1471,12 @@
       {
         "name": "Genkit",
         "github": "firebase/genkit"
+      },
+      {
+        "name": "sand3d",
+        "github": "Sandflow-ai/sand3d",
+        "pypi": "sand3d",
+        "so": "3d-modeling, python, llm"
       }
     ]
   },
