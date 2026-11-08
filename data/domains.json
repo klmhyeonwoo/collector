@@ -247,6 +247,12 @@
         "github": "wasp-lang/wasp",
         "npm": "wasp",
         "so": "wasp-lang"
+      },
+      {
+        "name": "Player",
+        "github": "livliv-dev/player",
+        "npm": "player",
+        "so": "web-player"
       }
     ]
   },
@@ -448,6 +454,12 @@
       {
         "name": "BLA",
         "github": "qybaihe/bla"
+      },
+      {
+        "name": "Vork",
+        "github": "voyager-so/vork",
+        "cargo": "vork",
+        "so": "3d-engine"
       }
     ]
   },
@@ -780,6 +792,12 @@
       {
         "name": "A2A CLI",
         "so": "cli, rust"
+      },
+      {
+        "name": "Kiri",
+        "github": "libracoder/kiri",
+        "cargo": "kiri",
+        "so": "container-runtime"
       }
     ]
   },
