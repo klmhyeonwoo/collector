@@ -798,6 +798,19 @@
         "github": "libracoder/kiri",
         "cargo": "kiri",
         "so": "container-runtime"
+      },
+      {
+        "name": "gputaskman",
+        "github": "shanselman/gputaskman",
+        "pypi": "gputaskman"
+      },
+      {
+        "name": "satmux",
+        "github": "Th0rgal/satmux",
+        "pypi": "satmux"
+      },
+      {
+        "name": "LiveReview"
       }
     ]
   },
