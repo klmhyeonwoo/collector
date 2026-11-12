@@ -253,6 +253,9 @@
         "github": "livliv-dev/player",
         "npm": "player",
         "so": "web-player"
+      },
+      {
+        "name": "Libghostty"
       }
     ]
   },
@@ -811,6 +814,10 @@
       },
       {
         "name": "LiveReview"
+      },
+      {
+        "name": "AWS emulator",
+        "so": "aws-emulator"
       }
     ]
   },
@@ -1508,6 +1515,9 @@
         "github": "Sandflow-ai/sand3d",
         "pypi": "sand3d",
         "so": "3d-modeling, python, llm"
+      },
+      {
+        "name": "E-means"
       }
     ]
   },
