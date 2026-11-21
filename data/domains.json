@@ -256,6 +256,10 @@
       },
       {
         "name": "Libghostty"
+      },
+      {
+        "name": "Slopstrap",
+        "so": "css-framework"
       }
     ]
   },
@@ -1524,6 +1528,30 @@
       },
       {
         "name": "Strands Agents"
+      },
+      {
+        "name": "GPT-6.2 Astra",
+        "so": "gpt"
+      },
+      {
+        "name": "Inkling 2 Mini",
+        "so": "llm"
+      },
+      {
+        "name": "Gemini 4 Neon",
+        "so": "gemini-ai"
+      },
+      {
+        "name": "Qwen4-Max",
+        "so": "qwen"
+      },
+      {
+        "name": "Gemini 4 Hydrogen",
+        "so": "gemini-ai"
+      },
+      {
+        "name": "Gemma 4 E2B",
+        "so": "gemma"
       }
     ]
   },
