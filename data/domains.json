@@ -822,6 +822,11 @@
       {
         "name": "AWS emulator",
         "so": "aws-emulator"
+      },
+      {
+        "name": "fast-anything",
+        "github": "EL4CTEO/fast-anything",
+        "cargo": "fast-anything"
       }
     ]
   },
