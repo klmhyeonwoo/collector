@@ -854,6 +854,11 @@
       },
       {
         "name": "Frostbite"
+      },
+      {
+        "name": "Stalwart",
+        "github": "stalwartlabs/mail-server",
+        "dockerhub": "stalwartlabs/mail-server"
       }
     ]
   },
@@ -1590,6 +1595,12 @@
         "github": "unslothai/unsloth",
         "pypi": "unsloth",
         "so": "unsloth"
+      },
+      {
+        "name": "GLM-5.4"
+      },
+      {
+        "name": "Gemma 4 E4B"
       }
     ]
   },
@@ -1969,6 +1980,10 @@
         "github": "erkamyaman/rust-anything",
         "cargo": "rust-anything",
         "so": "rust"
+      },
+      {
+        "name": "C# 15",
+        "so": "c#"
       }
     ]
   }
