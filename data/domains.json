@@ -472,6 +472,30 @@
         "github": "voyager-so/vork",
         "cargo": "vork",
         "so": "3d-engine"
+      },
+      {
+        "name": "openapi-typescript",
+        "github": "drwpow/openapi-typescript",
+        "npm": "openapi-typescript",
+        "so": "openapi-typescript"
+      },
+      {
+        "name": "Hey API",
+        "github": "hey-api/hey-api",
+        "npm": "hey-api",
+        "so": "hey-api"
+      },
+      {
+        "name": "Orval",
+        "github": "orval-ai/orval",
+        "npm": "orval",
+        "so": "orval"
+      },
+      {
+        "name": "Kubb",
+        "github": "kubb-project/kubb",
+        "npm": "kubb",
+        "so": "kubb"
       }
     ]
   },
@@ -925,6 +949,11 @@
         "name": "NOIR",
         "github": "Verlintas/NOIR",
         "so": "android-security"
+      },
+      {
+        "name": "Jetpack Compose",
+        "github": "androidx/androidx",
+        "so": "jetpack-compose"
       }
     ]
   },
@@ -1601,6 +1630,11 @@
       },
       {
         "name": "Gemma 4 E4B"
+      },
+      {
+        "name": "SCaNN",
+        "pypi": "scann",
+        "so": "scann"
       }
     ]
   },
