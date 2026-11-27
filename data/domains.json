@@ -265,6 +265,9 @@
         "name": "Ladybird",
         "github": "SerenityOS/serenity",
         "so": "ladybird"
+      },
+      {
+        "name": "Intel One Mono"
       }
     ]
   },
@@ -954,6 +957,10 @@
         "name": "Jetpack Compose",
         "github": "androidx/androidx",
         "so": "jetpack-compose"
+      },
+      {
+        "name": "Reloc",
+        "github": "Reukix/Reloc"
       }
     ]
   },
@@ -1635,6 +1642,10 @@
         "name": "SCaNN",
         "pypi": "scann",
         "so": "scann"
+      },
+      {
+        "name": "llm.asm",
+        "github": "alesha-pro/llm.asm"
       }
     ]
   },
